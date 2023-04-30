@@ -1,6 +1,6 @@
 /**
  * __PARRULES__
- * Generated: 2023-04-30 22:58:59
+ * Generated: 2023-04-30 22:59:20
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: local[tests/etc/gfwlist.txt]
  */
