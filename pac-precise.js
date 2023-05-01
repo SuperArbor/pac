@@ -1,8 +1,8 @@
 /**
  * __PARRULES__
- * Generated: 2023-05-01 12:45:32
+ * Generated: 2023-05-01 17:22:28
  * GFWList Last-Modified: 2023-03-26 13:35:48
- * GFWList From: local[tests/etc/gfwlist.txt]
+ * GFWList From: local[pacrules/res/gfwlist.txt]
  */
 
 var reject = 'socks5 127.0.0.1:4444';
