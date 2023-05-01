@@ -1,6 +1,6 @@
 /**
  * __PACRules__
- * Generated: 2023-04-30 23:00:41
+ * Generated: 2023-05-01 12:45:32
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: local[tests/etc/gfwlist.txt]
  */
