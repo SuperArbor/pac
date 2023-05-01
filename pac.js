@@ -1,6 +1,6 @@
 /**
  * __PACRules__
- * Generated: 2023-05-01 18:55:43
+ * Generated: 2023-05-01 18:58:30
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: local[pacrules/res/gfwlist.txt]
  */
