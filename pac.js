@@ -1,8 +1,8 @@
 /**
  * --PACRULES--
- * Generated: 2023-05-02 09:19:05
+ * Generated: 2023-05-02 11:26:26
  * GFWList Last-Modified: 2023-03-26 13:35:48
- * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+ * GFWList From: 
  */
 
 var reject = 'socks5 127.0.0.1:4444';
