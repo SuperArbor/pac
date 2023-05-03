@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2023-05-02 19:41:07
+ * Generated: 2023-05-03 06:15:21
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -17,6 +17,7 @@ var rules = [
         ],
         [
             ["api.dler.io","DOMAIN-KEYWORD"],
+            ["beian.miit.gov.cn","DOMAIN-KEYWORD"],
             ["githubusercontent.com","DOMAIN-KEYWORD"],
             ["libgen.is","DOMAIN-KEYWORD"],
             ["libgen.li","DOMAIN-KEYWORD"],
