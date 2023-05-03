@@ -37,3 +37,5 @@ mikanani.me
 serverfault.com
 superuser.com
 beian.miit.gov.cn
+gitlab.com
+onetrust.com
