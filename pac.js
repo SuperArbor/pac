@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2023-05-03 19:41:24
+ * Generated: 2023-05-04 19:41:42
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -26,6 +26,7 @@ var rules = [
             ["mikanani.me","DOMAIN-KEYWORD"],
             ["onetrust.com","DOMAIN-KEYWORD"],
             ["serverfault.com","DOMAIN-KEYWORD"],
+            ["stackexchange.com","DOMAIN-KEYWORD"],
             ["sub.id9.cc","DOMAIN-KEYWORD"],
             ["sub.maoxiongnet.com","DOMAIN-KEYWORD"],
             ["sub.xeton.dev","DOMAIN-KEYWORD"],
