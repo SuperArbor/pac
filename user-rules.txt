@@ -25,7 +25,6 @@
 @@*.alicdn.com
 
 githubusercontent.com
-m-team
 libgen.li
 libgen.is
 sub.id9.cc
