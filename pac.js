@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2023-06-09 19:05:17
+ * Generated: 2023-06-09 19:18:37
  * GFWList Last-Modified: 2023-05-20 03:42:18
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -3383,7 +3383,6 @@ var rules = [
             ["dessci.com","DOMAIN-SUFFIX"],
             ["destiny.xfiles.to/ubbthreads","DOMAIN-KEYWORD"],
             ["deutsche-welle.de","DOMAIN-SUFFIX"],
-            ["developers.com","DOMAIN-SUFFIX"],
             ["deviantart.com","DOMAIN-SUFFIX"],
             ["deviantart.net","DOMAIN-SUFFIX"],
             ["devio.us","DOMAIN-SUFFIX"],
@@ -4822,6 +4821,7 @@ var rules = [
             ["hybrid-analysis.com","DOMAIN-SUFFIX"],
             ["hyperrate.com","DOMAIN-SUFFIX"],
             ["hyread.com.tw","DOMAIN-SUFFIX"],
+            ["i-scmp.com","DOMAIN-SUFFIX"],
             ["i1.hk","DOMAIN-SUFFIX"],
             ["i2p2.de","DOMAIN-SUFFIX"],
             ["i2runner.com","DOMAIN-SUFFIX"],
@@ -5197,6 +5197,7 @@ var rules = [
             ["lvv2.com","DOMAIN-SUFFIX"],
             ["lzjscript.com","DOMAIN-SUFFIX"],
             ["lzmtnews.org","DOMAIN-SUFFIX"],
+            ["m-team.cc","DOMAIN-SUFFIX"],
             ["m.hkgalden.com","DOMAIN-KEYWORD"],
             ["m.me","DOMAIN-SUFFIX"],
             ["m.slandr.net","DOMAIN-KEYWORD"],
@@ -6347,7 +6348,6 @@ var rules = [
             ["tcpspeed.com","DOMAIN-SUFFIX"],
             ["tdesktop.com","DOMAIN-SUFFIX"],
             ["teachparentstech.org","DOMAIN-SUFFIX"],
-            ["team.cc","DOMAIN-SUFFIX"],
             ["teamamericany.com","DOMAIN-KEYWORD"],
             ["technews.tw","DOMAIN-SUFFIX"],
             ["techspot.com","DOMAIN-SUFFIX"],
@@ -7023,6 +7023,7 @@ var rules = [
             ["xbtce.com","DOMAIN-SUFFIX"],
             ["xcafe.in","DOMAIN-SUFFIX"],
             ["xcity.jp","DOMAIN-SUFFIX"],
+            ["xda-developers.com","DOMAIN-SUFFIX"],
             ["xfinity.com","DOMAIN-SUFFIX"],
             ["xgmyd.com","DOMAIN-SUFFIX"],
             ["xhamster.com","DOMAIN-SUFFIX"],
