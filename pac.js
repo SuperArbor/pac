@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2023-07-16 19:43:21
+ * Generated: 2023-07-17 19:43:40
  * GFWList Last-Modified: 2023-05-20 03:42:18
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -31,6 +31,7 @@ var rules = [
             ["sub.maoxiongnet.com","DOMAIN-KEYWORD"],
             ["sub.xeton.dev","DOMAIN-KEYWORD"],
             ["superuser.com","DOMAIN-KEYWORD"],
+            ["totheglory.im","DOMAIN-KEYWORD"],
             ["ubuntuforums.org","DOMAIN-KEYWORD"]
         ]
     ],
