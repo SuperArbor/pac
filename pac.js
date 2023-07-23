@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-07-22 19:43:22
- * GFWList Last-Modified: 2023-05-20 03:42:18
+ * Generated: 2023-07-23 19:43:22
+ * GFWList Last-Modified: 2023-07-23 17:13:01
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1197,7 +1197,6 @@ var rules = [
             [".imdb.com/title/tt1540068","DOMAIN-KEYWORD"],
             [".imdb.com/title/tt4908644","DOMAIN-KEYWORD"],
             [".img.ly","DOMAIN-KEYWORD"],
-            [".imgchili.net","DOMAIN-KEYWORD"],
             [".imgur.com","DOMAIN-KEYWORD"],
             [".imkev.com","DOMAIN-KEYWORD"],
             [".imlive.com","DOMAIN-KEYWORD"],
@@ -4195,6 +4194,7 @@ var rules = [
             ["greenfieldbookstore.com.hk","DOMAIN-SUFFIX"],
             ["greenpeace.org","DOMAIN-SUFFIX"],
             ["greenvpn.net","DOMAIN-SUFFIX"],
+            ["grindr.com","DOMAIN-SUFFIX"],
             ["grotty-monday.com","DOMAIN-SUFFIX"],
             ["grow.google","DOMAIN-SUFFIX"],
             ["gs-discuss.com","DOMAIN-KEYWORD"],
@@ -4538,7 +4538,6 @@ var rules = [
             ["http://ift.tt","DOMAIN-KEYWORD"],
             ["http://imb.org","DOMAIN-KEYWORD"],
             ["http://img.dlsite.jp/","DOMAIN-KEYWORD"],
-            ["http://imgchili.net","DOMAIN-KEYWORD"],
             ["http://insecam.org","DOMAIN-KEYWORD"],
             ["http://iportal.me","DOMAIN-KEYWORD"],
             ["http://islam.org.hk","DOMAIN-KEYWORD"],
@@ -4875,6 +4874,8 @@ var rules = [
             ["imagevenue.com","DOMAIN-SUFFIX"],
             ["imagezilla.net","DOMAIN-SUFFIX"],
             ["img.ly","DOMAIN-SUFFIX"],
+            ["imgasd.com","DOMAIN-SUFFIX"],
+            ["imgchili.net","DOMAIN-SUFFIX"],
             ["imgmega.com","DOMAIN-SUFFIX"],
             ["imgur.com","DOMAIN-SUFFIX"],
             ["imkev.com","DOMAIN-SUFFIX"],
@@ -7031,6 +7032,7 @@ var rules = [
             ["xiaohexie.com","DOMAIN-SUFFIX"],
             ["xiaolan.me","DOMAIN-SUFFIX"],
             ["xiaoma.org","DOMAIN-SUFFIX"],
+            ["xiaomi.eu","DOMAIN-SUFFIX"],
             ["xiaxiaoqiang.net","DOMAIN-SUFFIX"],
             ["xiezhua.com","DOMAIN-KEYWORD"],
             ["xinhuanet.org","DOMAIN-KEYWORD"],
