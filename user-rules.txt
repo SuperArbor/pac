@@ -41,3 +41,4 @@ beian.miit.gov.cn
 gitlab.com
 onetrust.com
 totheglory.im
+portal.shadowsocks.nz
