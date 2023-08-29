@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2023-08-28 19:43:21
+ * Generated: 2023-08-29 19:43:27
  * GFWList Last-Modified: 2023-07-23 17:13:01
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -20,6 +20,7 @@ var rules = [
             ["beian.miit.gov.cn","DOMAIN-KEYWORD"],
             ["githubusercontent.com","DOMAIN-KEYWORD"],
             ["gitlab.com","DOMAIN-KEYWORD"],
+            ["gnupg.org","DOMAIN-KEYWORD"],
             ["libgen.is","DOMAIN-KEYWORD"],
             ["libgen.li","DOMAIN-KEYWORD"],
             ["linuxquestions.org","DOMAIN-KEYWORD"],
