@@ -42,3 +42,4 @@ gitlab.com
 onetrust.com
 totheglory.im
 portal.shadowsocks.nz
+gnupg.org
