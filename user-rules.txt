@@ -23,6 +23,7 @@
 @@*.edu.cn
 @@*.pushplus.plus
 @@*.alicdn.com
+@@*.baidu.com
 
 githubusercontent.com
 libgen.li
