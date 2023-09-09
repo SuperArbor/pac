@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-09-08 19:43:20
- * GFWList Last-Modified: 2023-07-23 17:13:01
+ * Generated: 2023-09-09 19:43:22
+ * GFWList Last-Modified: 2023-09-09 04:06:49
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3913,6 +3913,7 @@ var rules = [
             ["goagent.biz","DOMAIN-SUFFIX"],
             ["goagentplus.com","DOMAIN-SUFFIX"],
             ["gobet.cc","DOMAIN-KEYWORD"],
+            ["godaddy.com","DOMAIN-SUFFIX"],
             ["godfootsteps.org","DOMAIN-SUFFIX"],
             ["godns.work","DOMAIN-KEYWORD"],
             ["godoc.org","DOMAIN-SUFFIX"],
