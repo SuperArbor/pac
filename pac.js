@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-09-16 19:43:27
- * GFWList Last-Modified: 2023-09-09 04:06:49
+ * Generated: 2023-09-17 19:43:37
+ * GFWList Last-Modified: 2023-09-17 16:59:35
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2586,7 +2586,6 @@ var rules = [
             ["6parkbbs.com","DOMAIN-SUFFIX"],
             ["6parker.com","DOMAIN-SUFFIX"],
             ["6parknews.com","DOMAIN-SUFFIX"],
-            ["7-zip.org","DOMAIN-SUFFIX"],
             ["7capture.com","DOMAIN-SUFFIX"],
             ["85cc.net","DOMAIN-KEYWORD"],
             ["881903.com","DOMAIN-SUFFIX"],
@@ -3200,7 +3199,7 @@ var rules = [
             ["civicparty.hk","DOMAIN-SUFFIX"],
             ["civilhrfront.org","DOMAIN-SUFFIX"],
             ["civilmedia.tw","DOMAIN-SUFFIX"],
-            ["cjb.net","DOMAIN-SUFFIX"],
+            ["civitai.com","DOMAIN-SUFFIX"],
             ["ck101.com","DOMAIN-SUFFIX"],
             ["cl.d0z.net","DOMAIN-KEYWORD"],
             ["classicalguitarblog.net","DOMAIN-SUFFIX"],
@@ -5131,6 +5130,7 @@ var rules = [
             ["letsencrypt.org","DOMAIN-SUFFIX"],
             ["levyhsu.com","DOMAIN-SUFFIX"],
             ["lfpcontent.com","DOMAIN-SUFFIX"],
+            ["li.taipei","DOMAIN-SUFFIX"],
             ["liangyou.net","DOMAIN-SUFFIX"],
             ["liangzhichuanmei.com","DOMAIN-SUFFIX"],
             ["liaowangxizang.net","DOMAIN-SUFFIX"],
@@ -5345,6 +5345,7 @@ var rules = [
             ["mol.gov.tw","DOMAIN-SUFFIX"],
             ["molihua.org","DOMAIN-KEYWORD"],
             ["mondex.org","DOMAIN-SUFFIX"],
+            ["monica.im","DOMAIN-SUFFIX"],
             ["monitorchina.org","DOMAIN-SUFFIX"],
             ["monitorware.com","DOMAIN-SUFFIX"],
             ["monocloud.me","DOMAIN-SUFFIX"],
@@ -5676,7 +5677,6 @@ var rules = [
             ["pacopacomama.com","DOMAIN-SUFFIX"],
             ["page.link","DOMAIN-SUFFIX"],
             ["page2rss.com","DOMAIN-KEYWORD"],
-            ["pages.dev","DOMAIN-SUFFIX"],
             ["pagodabox.com","DOMAIN-SUFFIX"],
             ["paljorpublications.com","DOMAIN-KEYWORD"],
             ["panamapapers.sueddeutsche.de","DOMAIN-KEYWORD"],
@@ -6522,7 +6522,6 @@ var rules = [
             ["tracfone.com","DOMAIN-SUFFIX"],
             ["tradingview.com","DOMAIN-SUFFIX"],
             ["translate.goog","DOMAIN-SUFFIX"],
-            ["translate.google","DOMAIN-SUFFIX"],
             ["transparency.org","DOMAIN-SUFFIX"],
             ["treemall.com.tw","DOMAIN-SUFFIX"],
             ["trendsmap.com","DOMAIN-SUFFIX"],
