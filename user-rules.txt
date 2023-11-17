@@ -45,3 +45,4 @@ totheglory.im
 portal.shadowsocks.nz
 gnupg.org
 coinbase.com
+oaistatic.com
