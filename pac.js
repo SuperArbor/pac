@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-12-01 19:43:11
- * GFWList Last-Modified: 2023-09-17 16:59:35
+ * Generated: 2023-12-02 19:43:15
+ * GFWList Last-Modified: 2023-12-02 06:34:49
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2813,6 +2813,7 @@ var rules = [
             ["babynet.com.hk","DOMAIN-KEYWORD"],
             ["backchina.com","DOMAIN-SUFFIX"],
             ["backtotiananmen.com","DOMAIN-KEYWORD"],
+            ["bad.news","DOMAIN-SUFFIX"],
             ["badiucao.com","DOMAIN-SUFFIX"],
             ["badoo.com","DOMAIN-KEYWORD"],
             ["bahamut.com.tw","DOMAIN-SUFFIX"],
@@ -4581,7 +4582,6 @@ var rules = [
             ["http://maplew.com","DOMAIN-KEYWORD"],
             ["http://martsangkagyuofficial.org","DOMAIN-KEYWORD"],
             ["http://mash.to","DOMAIN-KEYWORD"],
-            ["http://maturejp.com","DOMAIN-KEYWORD"],
             ["http://mcaf.ee","DOMAIN-KEYWORD"],
             ["http://metroradio.com.hk","DOMAIN-KEYWORD"],
             ["http://michaelanti.com","DOMAIN-KEYWORD"],
@@ -4900,6 +4900,7 @@ var rules = [
             ["indiemerch.com","DOMAIN-SUFFIX"],
             ["info-graf.fr","DOMAIN-SUFFIX"],
             ["initiativesforchina.org","DOMAIN-SUFFIX"],
+            ["inkbunny.net","DOMAIN-SUFFIX"],
             ["inkui.com","DOMAIN-SUFFIX"],
             ["inmediahk.net","DOMAIN-SUFFIX"],
             ["innermongolia.org","DOMAIN-SUFFIX"],
@@ -5248,7 +5249,9 @@ var rules = [
             ["matrix.org","DOMAIN-SUFFIX"],
             ["matsushimakaede.com","DOMAIN-SUFFIX"],
             ["matters.news","DOMAIN-SUFFIX"],
+            ["matters.town","DOMAIN-SUFFIX"],
             ["mattwilcox.net","DOMAIN-SUFFIX"],
+            ["maturejp.com","DOMAIN-SUFFIX"],
             ["mayimayi.com","DOMAIN-KEYWORD"],
             ["mcadforums.com","DOMAIN-SUFFIX"],
             ["mcfog.com","DOMAIN-KEYWORD"],
