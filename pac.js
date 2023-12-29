@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-12-28 19:43:09
- * GFWList Last-Modified: 2023-12-02 06:34:49
+ * Generated: 2023-12-29 19:43:31
+ * GFWList Last-Modified: 2023-12-29 17:08:31
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -4187,7 +4187,6 @@ var rules = [
             ["graphis.ne.jp","DOMAIN-SUFFIX"],
             ["graphql.org","DOMAIN-SUFFIX"],
             ["gravatar.com","DOMAIN-SUFFIX"],
-            ["greasespot.net","DOMAIN-SUFFIX"],
             ["great-firewall.com","DOMAIN-KEYWORD"],
             ["great-roc.org","DOMAIN-KEYWORD"],
             ["greatfire.org","DOMAIN-SUFFIX"],
@@ -4728,9 +4727,6 @@ var rules = [
             ["http://weisuo.ws","DOMAIN-KEYWORD"],
             ["http://wemigrate.org","DOMAIN-KEYWORD"],
             ["http://wiki.gamerp.jp","DOMAIN-KEYWORD"],
-            ["http://wn.com","DOMAIN-KEYWORD"],
-            ["http://woesermiddle-way.net/","DOMAIN-KEYWORD"],
-            ["http://wokar.org","DOMAIN-KEYWORD"],
             ["http://woyaolian.org","DOMAIN-KEYWORD"],
             ["http://www.americorps.gov","DOMAIN-KEYWORD"],
             ["http://www.antd.org","DOMAIN-KEYWORD"],
@@ -5596,6 +5592,7 @@ var rules = [
             ["oann.com","DOMAIN-SUFFIX"],
             ["oauth.net","DOMAIN-SUFFIX"],
             ["observechina.net","DOMAIN-KEYWORD"],
+            ["obyte.org","DOMAIN-SUFFIX"],
             ["ocaspro.com","DOMAIN-KEYWORD"],
             ["occupytiananmen.com","DOMAIN-KEYWORD"],
             ["oclp.hk","DOMAIN-KEYWORD"],
@@ -5860,6 +5857,7 @@ var rules = [
             ["psiphon.ca","DOMAIN-SUFFIX"],
             ["psiphon.civisec.org","DOMAIN-KEYWORD"],
             ["psiphon3.com","DOMAIN-SUFFIX"],
+            ["pstatic.net","DOMAIN-SUFFIX"],
             ["pt.im","DOMAIN-SUFFIX"],
             ["pts.org.tw","DOMAIN-SUFFIX"],
             ["ptt.cc","DOMAIN-SUFFIX"],
@@ -6426,6 +6424,7 @@ var rules = [
             ["thinkwithgoogle.com","DOMAIN-SUFFIX"],
             ["thomasbernhard.org","DOMAIN-SUFFIX"],
             ["threadreaderapp.com","DOMAIN-SUFFIX"],
+            ["threads.net","DOMAIN-SUFFIX"],
             ["threatchaos.com","DOMAIN-KEYWORD"],
             ["throughnightsfire.com","DOMAIN-SUFFIX"],
             ["thywords.com","DOMAIN-SUFFIX"],
@@ -6973,7 +6972,10 @@ var rules = [
             ["wizcrafts.net","DOMAIN-SUFFIX"],
             ["wjbk.org","DOMAIN-SUFFIX"],
             ["wlcnew.jigsy.com","DOMAIN-KEYWORD"],
+            ["wmflabs.org","DOMAIN-SUFFIX"],
+            ["wn.com","DOMAIN-SUFFIX"],
             ["woeser.com","DOMAIN-SUFFIX"],
+            ["wokar.org","DOMAIN-SUFFIX"],
             ["wolfax.com","DOMAIN-SUFFIX"],
             ["wombo.ai","DOMAIN-SUFFIX"],
             ["woolyss.com","DOMAIN-SUFFIX"],
@@ -7026,7 +7028,6 @@ var rules = [
             ["x.company","DOMAIN-SUFFIX"],
             ["x1949x.com","DOMAIN-KEYWORD"],
             ["x365x.com","DOMAIN-KEYWORD"],
-            ["xa.yimg.com","DOMAIN-KEYWORD"],
             ["xanga.com","DOMAIN-KEYWORD"],
             ["xbabe.com","DOMAIN-SUFFIX"],
             ["xbookcn.com","DOMAIN-SUFFIX"],
@@ -7100,6 +7101,7 @@ var rules = [
             ["yam.org.tw","DOMAIN-SUFFIX"],
             ["yande.re","DOMAIN-SUFFIX"],
             ["yandex.com","DOMAIN-SUFFIX"],
+            ["yandex.ru","DOMAIN-SUFFIX"],
             ["yangjianli.com","DOMAIN-KEYWORD"],
             ["yasni.co.uk","DOMAIN-SUFFIX"],
             ["ycombinator.com","DOMAIN-SUFFIX"],
@@ -7117,6 +7119,7 @@ var rules = [
             ["yidio.com","DOMAIN-SUFFIX"],
             ["yigeni.com","DOMAIN-SUFFIX"],
             ["yilubbs.com","DOMAIN-KEYWORD"],
+            ["yimg.com","DOMAIN-SUFFIX"],
             ["yinlei.org/mt","DOMAIN-KEYWORD"],
             ["yipub.com","DOMAIN-SUFFIX"],
             ["yiyechat.com","DOMAIN-SUFFIX"],
