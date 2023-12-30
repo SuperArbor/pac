@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2023-12-29 19:43:31
- * GFWList Last-Modified: 2023-12-29 17:08:31
+ * Generated: 2023-12-30 19:43:26
+ * GFWList Last-Modified: 2023-12-30 17:31:14
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1166,7 +1166,6 @@ var rules = [
             [".huaren.us","DOMAIN-KEYWORD"],
             [".huaren4us.com","DOMAIN-KEYWORD"],
             [".huashangnews.com","DOMAIN-KEYWORD"],
-            [".huffingtonpost.com/rebiya-kadeer","DOMAIN-KEYWORD"],
             [".huhangfei.com","DOMAIN-KEYWORD"],
             [".hulkshare.com","DOMAIN-KEYWORD"],
             [".hurriyet.com.tr","DOMAIN-KEYWORD"],
@@ -2062,7 +2061,6 @@ var rules = [
             [".tdm.com.mo","DOMAIN-KEYWORD"],
             [".teeniefuck.net","DOMAIN-KEYWORD"],
             [".telecomspace.com","DOMAIN-KEYWORD"],
-            [".telegramdownload.com","DOMAIN-KEYWORD"],
             [".tellme.pw","DOMAIN-KEYWORD"],
             [".tenacy.com","DOMAIN-KEYWORD"],
             [".tew.org","DOMAIN-KEYWORD"],
@@ -3049,6 +3047,7 @@ var rules = [
             ["cactusvpn.com","DOMAIN-SUFFIX"],
             ["caijinglengyan.com","DOMAIN-SUFFIX"],
             ["calebelston.com","DOMAIN-SUFFIX"],
+            ["calendarz.com","DOMAIN-SUFFIX"],
             ["camfrog.com","DOMAIN-SUFFIX"],
             ["campaignforuyghurs.org","DOMAIN-SUFFIX"],
             ["cams.com","DOMAIN-SUFFIX"],
@@ -3089,6 +3088,7 @@ var rules = [
             ["cdef.org","DOMAIN-SUFFIX"],
             ["cdig.info","DOMAIN-SUFFIX"],
             ["cdjp.org","DOMAIN-SUFFIX"],
+            ["cdn-telegram.org","DOMAIN-SUFFIX"],
             ["cdn1.lp.saboom.com","DOMAIN-KEYWORD"],
             ["cdninstagram.com","DOMAIN-SUFFIX"],
             ["cdp1989.org","DOMAIN-KEYWORD"],
@@ -3265,6 +3265,7 @@ var rules = [
             ["comefromchina.com","DOMAIN-SUFFIX"],
             ["comico.tw","DOMAIN-SUFFIX"],
             ["commandarms.com","DOMAIN-KEYWORD"],
+            ["comments.app","DOMAIN-SUFFIX"],
             ["commentshk.com","DOMAIN-SUFFIX"],
             ["communistcrimes.org","DOMAIN-SUFFIX"],
             ["communitychoicecu.com","DOMAIN-SUFFIX"],
@@ -3848,6 +3849,7 @@ var rules = [
             ["geek-art.net","DOMAIN-SUFFIX"],
             ["geekerhome.com/2010/03/xixiang-project-cross-gfw","DOMAIN-KEYWORD"],
             ["geekheart.info","DOMAIN-SUFFIX"],
+            ["generated.photos","DOMAIN-SUFFIX"],
             ["genius.com","DOMAIN-SUFFIX"],
             ["geocities.jp","DOMAIN-KEYWORD"],
             ["geph.io","DOMAIN-SUFFIX"],
@@ -4184,6 +4186,7 @@ var rules = [
             ["grammaly.com","DOMAIN-SUFFIX"],
             ["grandtrial.org","DOMAIN-KEYWORD"],
             ["grangorz.org","DOMAIN-SUFFIX"],
+            ["graph.org","DOMAIN-SUFFIX"],
             ["graphis.ne.jp","DOMAIN-SUFFIX"],
             ["graphql.org","DOMAIN-SUFFIX"],
             ["gravatar.com","DOMAIN-SUFFIX"],
@@ -4794,6 +4797,9 @@ var rules = [
             ["huayuworld.org","DOMAIN-SUFFIX"],
             ["hudatoriq.web.id","DOMAIN-SUFFIX"],
             ["hudson.org","DOMAIN-SUFFIX"],
+            ["huffingtonpost.com","DOMAIN-SUFFIX"],
+            ["huffpost.com","DOMAIN-SUFFIX"],
+            ["huggingface.co","DOMAIN-SUFFIX"],
             ["hugoroy.eu","DOMAIN-SUFFIX"],
             ["huhaitai.com","DOMAIN-SUFFIX"],
             ["huhamhire.com","DOMAIN-SUFFIX"],
@@ -5898,6 +5904,7 @@ var rules = [
             ["questvisual.com","DOMAIN-SUFFIX"],
             ["quitccp.net","DOMAIN-SUFFIX"],
             ["quitccp.org","DOMAIN-SUFFIX"],
+            ["quiz.directory","DOMAIN-SUFFIX"],
             ["quora.com","DOMAIN-SUFFIX"],
             ["quoracdn.net","DOMAIN-SUFFIX"],
             ["qusi8.net","DOMAIN-KEYWORD"],
@@ -6368,9 +6375,12 @@ var rules = [
             ["teensinasia.com","DOMAIN-KEYWORD"],
             ["tehrantimes.com","DOMAIN-SUFFIX"],
             ["telegra.ph","DOMAIN-SUFFIX"],
+            ["telegram-cdn.org","DOMAIN-SUFFIX"],
             ["telegram.dog","DOMAIN-SUFFIX"],
             ["telegram.me","DOMAIN-SUFFIX"],
             ["telegram.org","DOMAIN-SUFFIX"],
+            ["telegram.space","DOMAIN-SUFFIX"],
+            ["telegramdownload.com","DOMAIN-SUFFIX"],
             ["telegraph.co.uk","DOMAIN-SUFFIX"],
             ["telesco.pe","DOMAIN-SUFFIX"],
             ["tensorflow.org","DOMAIN-SUFFIX"],
@@ -6881,6 +6891,7 @@ var rules = [
             ["wav.tv","DOMAIN-SUFFIX"],
             ["waveprotocol.org","DOMAIN-SUFFIX"],
             ["waymo.com","DOMAIN-SUFFIX"],
+            ["wd.bible","DOMAIN-SUFFIX"],
             ["wda.gov.tw","DOMAIN-SUFFIX"],
             ["wealth.com.tw","DOMAIN-SUFFIX"],
             ["wearn.com","DOMAIN-SUFFIX"],
