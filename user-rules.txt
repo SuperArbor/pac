@@ -46,3 +46,5 @@ portal.shadowsocks.nz
 gnupg.org
 coinbase.com
 oaistatic.com
+sing-box.sagernet.org
+qbittorrent.org
