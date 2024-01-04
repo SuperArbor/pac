@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2024-01-03 19:43:19
+ * Generated: 2024-01-04 19:43:31
  * GFWList Last-Modified: 2023-12-30 17:31:14
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -30,7 +30,9 @@ var rules = [
             ["oaistatic.com","DOMAIN-KEYWORD"],
             ["onetrust.com","DOMAIN-KEYWORD"],
             ["portal.shadowsocks.nz","DOMAIN-KEYWORD"],
+            ["qbittorrent.org","DOMAIN-KEYWORD"],
             ["serverfault.com","DOMAIN-KEYWORD"],
+            ["sing-box.sagernet.org","DOMAIN-KEYWORD"],
             ["stackexchange.com","DOMAIN-KEYWORD"],
             ["sub.id9.cc","DOMAIN-KEYWORD"],
             ["sub.maoxiongnet.com","DOMAIN-KEYWORD"],
