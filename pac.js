@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-02-18 19:43:31
- * GFWList Last-Modified: 2023-12-30 17:31:14
+ * Generated: 2024-02-19 19:43:15
+ * GFWList Last-Modified: 2024-02-19 15:27:32
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -4809,6 +4809,7 @@ var rules = [
             ["huiyi.in","DOMAIN-KEYWORD"],
             ["hulu.com","DOMAIN-SUFFIX"],
             ["huluim.com","DOMAIN-SUFFIX"],
+            ["humanparty.me","DOMAIN-SUFFIX"],
             ["humanrightspressawards.org","DOMAIN-SUFFIX"],
             ["hung-ya.com","DOMAIN-SUFFIX"],
             ["hungerstrikeforaids.org","DOMAIN-SUFFIX"],
@@ -6385,6 +6386,7 @@ var rules = [
             ["telegramdownload.com","DOMAIN-SUFFIX"],
             ["telegraph.co.uk","DOMAIN-SUFFIX"],
             ["telesco.pe","DOMAIN-SUFFIX"],
+            ["tenor.com","DOMAIN-SUFFIX"],
             ["tensorflow.org","DOMAIN-SUFFIX"],
             ["tenzinpalmo.com","DOMAIN-SUFFIX"],
             ["terabox.com","DOMAIN-SUFFIX"],
