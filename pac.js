@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-03-27 19:43:16
- * GFWList Last-Modified: 2024-02-19 15:27:32
+ * Generated: 2024-03-28 19:43:21
+ * GFWList Last-Modified: 2024-03-28 18:51:38
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -794,7 +794,6 @@ var rules = [
             [".eulam.com","DOMAIN-KEYWORD"],
             [".eurekavpt.com","DOMAIN-KEYWORD"],
             [".euronews.com","DOMAIN-KEYWORD"],
-            [".evschool.net","DOMAIN-KEYWORD"],
             [".exchristian.hk","DOMAIN-KEYWORD"],
             [".expecthim.com","DOMAIN-KEYWORD"],
             [".expekt.com","DOMAIN-KEYWORD"],
@@ -2752,6 +2751,7 @@ var rules = [
             ["archive.fo","DOMAIN-SUFFIX"],
             ["archive.is","DOMAIN-SUFFIX"],
             ["archive.li","DOMAIN-SUFFIX"],
+            ["archive.md","DOMAIN-SUFFIX"],
             ["archive.org","DOMAIN-SUFFIX"],
             ["archive.ph","DOMAIN-SUFFIX"],
             ["archive.today","DOMAIN-KEYWORD"],
@@ -3045,6 +3045,7 @@ var rules = [
             ["c-span.org","DOMAIN-SUFFIX"],
             ["c-spanvideo.org","DOMAIN-SUFFIX"],
             ["c2cx.com","DOMAIN-SUFFIX"],
+            ["cableav.tv","DOMAIN-SUFFIX"],
             ["cablegatesearch.net","DOMAIN-SUFFIX"],
             ["cactusvpn.com","DOMAIN-SUFFIX"],
             ["caijinglengyan.com","DOMAIN-SUFFIX"],
@@ -3192,6 +3193,7 @@ var rules = [
             ["chromestatus.com","DOMAIN-SUFFIX"],
             ["chromium.org","DOMAIN-SUFFIX"],
             ["chubun.com","DOMAIN-KEYWORD"],
+            ["ciciai.com","DOMAIN-SUFFIX"],
             ["circlethebayfortibet.org","DOMAIN-SUFFIX"],
             ["cirosantilli.com","DOMAIN-SUFFIX"],
             ["citizencn.com","DOMAIN-SUFFIX"],
@@ -3285,6 +3287,7 @@ var rules = [
             ["cotweet.com","DOMAIN-SUFFIX"],
             ["counter.social","DOMAIN-SUFFIX"],
             ["coursehero.com","DOMAIN-SUFFIX"],
+            ["coze.com","DOMAIN-SUFFIX"],
             ["cpj.org","DOMAIN-SUFFIX"],
             ["crackle.com","DOMAIN-SUFFIX"],
             ["crazyshit.com","DOMAIN-SUFFIX"],
@@ -3577,6 +3580,7 @@ var rules = [
             ["eurekavpt.com","DOMAIN-SUFFIX"],
             ["euronews.com","DOMAIN-SUFFIX"],
             ["evozi.com","DOMAIN-SUFFIX"],
+            ["evschool.net","DOMAIN-SUFFIX"],
             ["exblog.co.jp","DOMAIN-SUFFIX"],
             ["exblog.jp","DOMAIN-SUFFIX"],
             ["exchristian.hk","DOMAIN-SUFFIX"],
@@ -4486,7 +4490,6 @@ var rules = [
             ["http://en.hao123.com","DOMAIN-KEYWORD"],
             ["http://erktv.com","DOMAIN-KEYWORD"],
             ["http://eromon.net","DOMAIN-KEYWORD"],
-            ["http://evschool.net","DOMAIN-KEYWORD"],
             ["http://facesoftibetanselfimmolators.info","DOMAIN-KEYWORD"],
             ["http://faith100.org","DOMAIN-KEYWORD"],
             ["http://falunau.org","DOMAIN-KEYWORD"],
