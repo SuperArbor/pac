@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-04-13 19:43:06
- * GFWList Last-Modified: 2024-03-28 18:51:38
+ * Generated: 2024-04-14 23:01:15
+ * GFWList Last-Modified: 2024-04-14 14:56:29
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2947,7 +2947,6 @@ var rules = [
             ["blogimg.jp","DOMAIN-KEYWORD"],
             ["bloglines.com","DOMAIN-SUFFIX"],
             ["bloglovin.com","DOMAIN-SUFFIX"],
-            ["blogs.icerocket.com/tag","DOMAIN-KEYWORD"],
             ["blogs.libraryinformationtechnology.com/jxyz","DOMAIN-KEYWORD"],
             ["blogspot.com","DOMAIN-KEYWORD"],
             ["blogtd.net","DOMAIN-KEYWORD"],
@@ -4849,6 +4848,7 @@ var rules = [
             ["ibvpn.com","DOMAIN-SUFFIX"],
             ["icams.com","DOMAIN-KEYWORD"],
             ["ice.audionow.com","DOMAIN-KEYWORD"],
+            ["icedrive.net","DOMAIN-SUFFIX"],
             ["icij.org","DOMAIN-SUFFIX"],
             ["icl-fi.org","DOMAIN-SUFFIX"],
             ["icoco.com","DOMAIN-SUFFIX"],
@@ -6004,6 +6004,7 @@ var rules = [
             ["rolia.net","DOMAIN-SUFFIX"],
             ["rolsociety.org","DOMAIN-SUFFIX"],
             ["ronjoneswriter.com","DOMAIN-SUFFIX"],
+            ["rou.video","DOMAIN-SUFFIX"],
             ["rsdlmonitor.com","DOMAIN-SUFFIX"],
             ["rsf-chinese.org","DOMAIN-SUFFIX"],
             ["rsf.org","DOMAIN-SUFFIX"],
