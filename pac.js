@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-04-17 19:43:18
- * GFWList Last-Modified: 2024-04-14 14:56:29
+ * Generated: 2024-04-18 19:43:28
+ * GFWList Last-Modified: 2024-04-18 15:17:15
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -96,7 +96,6 @@ var rules = [
             ["nmp.gov.tw","DOMAIN-SUFFIX"],
             ["nmvttc.gov.tw","DOMAIN-SUFFIX"],
             ["northguan-nsa.gov.tw","DOMAIN-SUFFIX"],
-            ["npm.gov.tw","DOMAIN-SUFFIX"],
             ["nstm.gov.tw","DOMAIN-SUFFIX"],
             ["ntdmh.gov.tw","DOMAIN-SUFFIX"],
             ["ntl.gov.tw","DOMAIN-SUFFIX"],
@@ -3570,6 +3569,7 @@ var rules = [
             ["esurance.com","DOMAIN-SUFFIX"],
             ["etaiwannews.com","DOMAIN-KEYWORD"],
             ["etherdelta.com","DOMAIN-SUFFIX"],
+            ["ethermine.org","DOMAIN-SUFFIX"],
             ["etherscan.io","DOMAIN-SUFFIX"],
             ["etizer.org","DOMAIN-SUFFIX"],
             ["etokki.com","DOMAIN-SUFFIX"],
@@ -3598,6 +3598,7 @@ var rules = [
             ["exx.com","DOMAIN-SUFFIX"],
             ["eyevio.jp","DOMAIN-SUFFIX"],
             ["eyny.com","DOMAIN-SUFFIX"],
+            ["f2pool.com","DOMAIN-SUFFIX"],
             ["f8.com","DOMAIN-SUFFIX"],
             ["fa.gov.tw","DOMAIN-SUFFIX"],
             ["facebook.br","DOMAIN-SUFFIX"],
@@ -4380,6 +4381,7 @@ var rules = [
             ["hqjapanesesex.com","DOMAIN-SUFFIX"],
             ["hqmovies.com","DOMAIN-KEYWORD"],
             ["hrichina.org","DOMAIN-SUFFIX"],
+            ["hrntt.org","DOMAIN-SUFFIX"],
             ["hrw.org","DOMAIN-SUFFIX"],
             ["hrweb.org","DOMAIN-KEYWORD"],
             ["hsjp.net","DOMAIN-SUFFIX"],
@@ -5036,6 +5038,7 @@ var rules = [
             ["juyuange.org","DOMAIN-KEYWORD"],
             ["juziyue.com","DOMAIN-SUFFIX"],
             ["jwmusic.org","DOMAIN-SUFFIX"],
+            ["jwplayer.com","DOMAIN-SUFFIX"],
             ["k-doujin.net","DOMAIN-SUFFIX"],
             ["ka-wai.com","DOMAIN-SUFFIX"],
             ["kadokawa.co.jp","DOMAIN-SUFFIX"],
@@ -5559,6 +5562,7 @@ var rules = [
             ["noypf.com","DOMAIN-SUFFIX"],
             ["npa.go.jp","DOMAIN-SUFFIX"],
             ["npa.gov.tw","DOMAIN-SUFFIX"],
+            ["npm.gov.tw","DOMAIN-SUFFIX"],
             ["npsboost.com","DOMAIN-SUFFIX"],
             ["nrk.no","DOMAIN-SUFFIX"],
             ["nsc.gov.tw","DOMAIN-SUFFIX"],
@@ -5824,6 +5828,7 @@ var rules = [
             ["postadult.com","DOMAIN-KEYWORD"],
             ["potato.im","DOMAIN-SUFFIX"],
             ["potvpn.com","DOMAIN-SUFFIX"],
+            ["pourquoi.tw","DOMAIN-SUFFIX"],
             ["power.com","DOMAIN-SUFFIX"],
             ["powerapple.com","DOMAIN-SUFFIX"],
             ["powercx.com","DOMAIN-SUFFIX"],
@@ -7023,7 +7028,7 @@ var rules = [
             ["wsj.net","DOMAIN-SUFFIX"],
             ["wuerkaixi.com","DOMAIN-KEYWORD"],
             ["wufafangwen.com","DOMAIN-SUFFIX"],
-            ["wufi.org.tw","DOMAIN-KEYWORD"],
+            ["wufi.org.tw","DOMAIN-SUFFIX"],
             ["wuguoguang.com","DOMAIN-SUFFIX"],
             ["wujie.net","DOMAIN-KEYWORD"],
             ["wujieliulan.com","DOMAIN-SUFFIX"],
@@ -7183,6 +7188,7 @@ var rules = [
             ["z-lib.org","DOMAIN-SUFFIX"],
             ["zacebook.com","DOMAIN-KEYWORD"],
             ["zalmos.com","DOMAIN-SUFFIX"],
+            ["zamimg.com","DOMAIN-SUFFIX"],
             ["zannel.com","DOMAIN-SUFFIX"],
             ["zaobao.com","DOMAIN-SUFFIX"],
             ["zaobao.com.sg","DOMAIN-SUFFIX"],
