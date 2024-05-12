@@ -48,3 +48,5 @@ coinbase.com
 oaistatic.com
 sing-box.sagernet.org
 qbittorrent.org
+openai.com
+chatgpt.com
