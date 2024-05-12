@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2024-05-11 19:43:22
+ * Generated: 2024-05-12 09:30:43
  * GFWList Last-Modified: 2024-04-18 15:17:15
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -19,6 +19,7 @@ var rules = [
         [
             ["api.dler.io","DOMAIN-KEYWORD"],
             ["beian.miit.gov.cn","DOMAIN-KEYWORD"],
+            ["chatgpt.com","DOMAIN-KEYWORD"],
             ["coinbase.com","DOMAIN-KEYWORD"],
             ["githubusercontent.com","DOMAIN-KEYWORD"],
             ["gitlab.com","DOMAIN-KEYWORD"],
@@ -29,6 +30,7 @@ var rules = [
             ["mikanani.me","DOMAIN-KEYWORD"],
             ["oaistatic.com","DOMAIN-KEYWORD"],
             ["onetrust.com","DOMAIN-KEYWORD"],
+            ["openai.com","DOMAIN-KEYWORD"],
             ["portal.shadowsocks.nz","DOMAIN-KEYWORD"],
             ["qbittorrent.org","DOMAIN-KEYWORD"],
             ["serverfault.com","DOMAIN-KEYWORD"],
