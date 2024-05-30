@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-05-29 19:43:33
- * GFWList Last-Modified: 2024-05-13 03:19:25
+ * Generated: 2024-05-30 19:43:20
+ * GFWList Last-Modified: 2024-05-30 05:40:24
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -880,6 +880,7 @@ var rules = [
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.twitter\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.twitter\.jp",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.vine\.co",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.x\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.gov\.taipei",
             "^https://aiss\.anws\.gov\.tw",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.archives\.gov\.tw",
