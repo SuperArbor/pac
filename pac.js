@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-05-29 19:43:33
- * GFWList Last-Modified: 2024-05-13 03:19:25
+ * Generated: 2024-05-30 19:43:20
+ * GFWList Last-Modified: 2024-05-30 05:40:24
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -7052,6 +7052,7 @@ var rules = [
             ["x-berry.com","DOMAIN-SUFFIX"],
             ["x-wall.org","DOMAIN-SUFFIX"],
             ["x.co","DOMAIN-SUFFIX"],
+            ["x.com","DOMAIN-SUFFIX"],
             ["x.company","DOMAIN-SUFFIX"],
             ["x1949x.com","DOMAIN-KEYWORD"],
             ["x365x.com","DOMAIN-KEYWORD"],
