@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-05-31 19:43:18
- * GFWList Last-Modified: 2024-05-30 05:40:24
+ * Generated: 2024-06-01 19:43:05
+ * GFWList Last-Modified: 2024-06-01 15:27:48
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1764,7 +1764,6 @@ var rules = [
             [".puuko.com","DOMAIN-KEYWORD"],
             [".python.com.tw","DOMAIN-KEYWORD"],
             [".qanote.com","DOMAIN-KEYWORD"],
-            [".qgirl.com.tw","DOMAIN-KEYWORD"],
             [".qhigh.com","DOMAIN-KEYWORD"],
             [".qi-gong.me","DOMAIN-KEYWORD"],
             [".qidian.ca","DOMAIN-KEYWORD"],
@@ -5901,6 +5900,8 @@ var rules = [
             ["pythonhackers.com/p","DOMAIN-KEYWORD"],
             ["pytorch.org","DOMAIN-SUFFIX"],
             ["qanote.com","DOMAIN-SUFFIX"],
+            ["qbittorrent.org","DOMAIN-SUFFIX"],
+            ["qgirl.com.tw","DOMAIN-SUFFIX"],
             ["qi-gong.me","DOMAIN-SUFFIX"],
             ["qianbai.tw","DOMAIN-SUFFIX"],
             ["qiandao.today","DOMAIN-SUFFIX"],
