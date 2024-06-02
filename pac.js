@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-06-01 19:43:05
- * GFWList Last-Modified: 2024-06-01 15:27:48
+ * Generated: 2024-06-02 19:43:15
+ * GFWList Last-Modified: 2024-06-02 15:11:56
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2939,7 +2939,6 @@ var rules = [
             ["blog.taragana.com","DOMAIN-KEYWORD"],
             ["blog.xuite.net","DOMAIN-KEYWORD"],
             ["blog.youthwant.com.tw","DOMAIN-KEYWORD"],
-            ["blog.youxu.info/2010/03/14/west-chamber","DOMAIN-KEYWORD"],
             ["blogblog.com","DOMAIN-SUFFIX"],
             ["blogcatalog.com","DOMAIN-SUFFIX"],
             ["blogcity.me","DOMAIN-SUFFIX"],
@@ -4775,8 +4774,6 @@ var rules = [
             ["http://xxxymovies.com","DOMAIN-KEYWORD"],
             ["http://yes-news.com","DOMAIN-KEYWORD"],
             ["http://yeyeclub.com","DOMAIN-KEYWORD"],
-            ["http://yourlisten.com","DOMAIN-KEYWORD"],
-            ["http://yourlust.com","DOMAIN-KEYWORD"],
             ["http://zaobao.com.sg","DOMAIN-KEYWORD"],
             ["http://zh.wikisource.org","DOMAIN-KEYWORD"],
             ["http://zhenxiang.biz","DOMAIN-KEYWORD"],
@@ -5784,6 +5781,7 @@ var rules = [
             ["pinterest.se","DOMAIN-SUFFIX"],
             ["pioneer-worker.forums-free.com","DOMAIN-KEYWORD"],
             ["piraattilahti.org","DOMAIN-KEYWORD"],
+            ["pixeldrain.com","DOMAIN-SUFFIX"],
             ["pixelqi.com","DOMAIN-SUFFIX"],
             ["pixiv.net","DOMAIN-SUFFIX"],
             ["pixnet.in","DOMAIN-SUFFIX"],
@@ -7151,7 +7149,7 @@ var rules = [
             ["yimg.com","DOMAIN-SUFFIX"],
             ["yinlei.org/mt","DOMAIN-KEYWORD"],
             ["yipub.com","DOMAIN-SUFFIX"],
-            ["yiyechat.com","DOMAIN-SUFFIX"],
+            ["yizhihongxing.com","DOMAIN-SUFFIX"],
             ["yobit.net","DOMAIN-SUFFIX"],
             ["yobt.tv","DOMAIN-SUFFIX"],
             ["yogichen.org","DOMAIN-SUFFIX"],
@@ -7165,6 +7163,8 @@ var rules = [
             ["youporn.com","DOMAIN-SUFFIX"],
             ["youporngay.com","DOMAIN-SUFFIX"],
             ["yourepeat.com","DOMAIN-SUFFIX"],
+            ["yourlisten.com","DOMAIN-SUFFIX"],
+            ["yourlust.com","DOMAIN-SUFFIX"],
             ["yourprivatevpn.com","DOMAIN-SUFFIX"],
             ["yousendit.com","DOMAIN-SUFFIX"],
             ["youshun12.com","DOMAIN-KEYWORD"],
@@ -7183,12 +7183,13 @@ var rules = [
             ["ytimg.com","DOMAIN-SUFFIX"],
             ["ytn.co.kr","DOMAIN-SUFFIX"],
             ["yuanming.net","DOMAIN-KEYWORD"],
+            ["yulghun.com","DOMAIN-SUFFIX"],
             ["yunchao.net","DOMAIN-SUFFIX"],
-            ["yuntipub.com","DOMAIN-SUFFIX"],
             ["yvesgeleyn.com","DOMAIN-SUFFIX"],
             ["yx51.net","DOMAIN-KEYWORD"],
             ["yyii.org","DOMAIN-SUFFIX"],
             ["yyjlymb.xyz","DOMAIN-SUFFIX"],
+            ["yysub.net","DOMAIN-SUFFIX"],
             ["yzzk.com","DOMAIN-SUFFIX"],
             ["z-lib.org","DOMAIN-SUFFIX"],
             ["zacebook.com","DOMAIN-KEYWORD"],
