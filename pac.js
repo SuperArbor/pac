@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-06-02 19:43:15
- * GFWList Last-Modified: 2024-06-02 15:11:56
+ * Generated: 2024-06-03 19:43:26
+ * GFWList Last-Modified: 2024-06-03 17:32:45
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -150,7 +150,6 @@ var rules = [
             [".12vpn.net","DOMAIN-KEYWORD"],
             [".138.com","DOMAIN-KEYWORD"],
             [".141tube.com","DOMAIN-KEYWORD"],
-            [".1688.com.au","DOMAIN-KEYWORD"],
             [".173ng.com","DOMAIN-KEYWORD"],
             [".177pic.info","DOMAIN-KEYWORD"],
             [".17t17p.com","DOMAIN-KEYWORD"],
@@ -1382,10 +1381,8 @@ var rules = [
             [".liuxiaobo.net","DOMAIN-KEYWORD"],
             [".livedoor.jp","DOMAIN-KEYWORD"],
             [".liveleak.com","DOMAIN-KEYWORD"],
-            [".livestation.com","DOMAIN-KEYWORD"],
             [".livevideo.com","DOMAIN-KEYWORD"],
             [".liwangyang.com","DOMAIN-KEYWORD"],
-            [".llss.me/","DOMAIN-KEYWORD"],
             [".load.to","DOMAIN-KEYWORD"],
             [".lobsangwangyal.com","DOMAIN-KEYWORD"],
             [".localdomain.ws","DOMAIN-KEYWORD"],
@@ -1777,8 +1774,6 @@ var rules = [
             [".quran.com","DOMAIN-KEYWORD"],
             [".quranexplorer.com","DOMAIN-KEYWORD"],
             [".qvodzy.org","DOMAIN-KEYWORD"],
-            [".ra.gg","DOMAIN-KEYWORD"],
-            [".radicalparty.org","DOMAIN-KEYWORD"],
             [".radiohilight.net","DOMAIN-KEYWORD"],
             [".raidtalk.com.tw","DOMAIN-KEYWORD"],
             [".rainbowplan.org/bbs","DOMAIN-KEYWORD"],
@@ -2537,6 +2532,7 @@ var rules = [
             ["1337x.to","DOMAIN-SUFFIX"],
             ["141hongkong.com/forum","DOMAIN-KEYWORD"],
             ["141jj.com","DOMAIN-SUFFIX"],
+            ["1688.com.au","DOMAIN-SUFFIX"],
             ["173ng.com","DOMAIN-SUFFIX"],
             ["18board.com","DOMAIN-SUFFIX"],
             ["18board.info","DOMAIN-SUFFIX"],
@@ -4582,7 +4578,6 @@ var rules = [
             ["http://lhakar.org","DOMAIN-KEYWORD"],
             ["http://library.usc.cuhk.edu.hk/","DOMAIN-KEYWORD"],
             ["http://link-o-rama.com","DOMAIN-KEYWORD"],
-            ["http://liuxiaobo.net","DOMAIN-KEYWORD"],
             ["http://looktoronto.com","DOMAIN-KEYWORD"],
             ["http://lyfhk.net","DOMAIN-KEYWORD"],
             ["http://ma.hao123.com","DOMAIN-KEYWORD"],
@@ -4635,7 +4630,6 @@ var rules = [
             ["http://python.com.tw","DOMAIN-KEYWORD"],
             ["http://quannengshen.org","DOMAIN-KEYWORD"],
             ["http://quran.com","DOMAIN-KEYWORD"],
-            ["http://ra.gg/","DOMAIN-KEYWORD"],
             ["http://radiko.jp","DOMAIN-KEYWORD"],
             ["http://raizoji.or.jp","DOMAIN-KEYWORD"],
             ["http://rapidgator.net/","DOMAIN-KEYWORD"],
@@ -5174,6 +5168,7 @@ var rules = [
             ["lithium.com","DOMAIN-SUFFIX"],
             ["liudejun.com","DOMAIN-SUFFIX"],
             ["liujianshu.com","DOMAIN-SUFFIX"],
+            ["liuxiaobo.net","DOMAIN-SUFFIX"],
             ["liuxiaotong.com","DOMAIN-SUFFIX"],
             ["live.com","DOMAIN-SUFFIX"],
             ["livecoin.net","DOMAIN-SUFFIX"],
@@ -5185,6 +5180,7 @@ var rules = [
             ["livingstream.com","DOMAIN-SUFFIX"],
             ["lizhizhuangbi.com","DOMAIN-KEYWORD"],
             ["lkcn.net","DOMAIN-KEYWORD"],
+            ["lmsys.org","DOMAIN-SUFFIX"],
             ["lncn.org","DOMAIN-SUFFIX"],
             ["localbitcoins.com","DOMAIN-SUFFIX"],
             ["localdomain.ws","DOMAIN-SUFFIX"],
@@ -5926,8 +5922,9 @@ var rules = [
             ["r0.ru","DOMAIN-SUFFIX"],
             ["r18.com","DOMAIN-SUFFIX"],
             ["radicalparty.org","DOMAIN-KEYWORD"],
+            ["radio-canada.ca","DOMAIN-SUFFIX"],
             ["radio.garden","DOMAIN-SUFFIX"],
-            ["radioaustralia.net.au","DOMAIN-KEYWORD"],
+            ["radioaustralia.net.au","DOMAIN-SUFFIX"],
             ["radiohilight.net","DOMAIN-SUFFIX"],
             ["radioline.co","DOMAIN-SUFFIX"],
             ["radiovaticana.org","DOMAIN-SUFFIX"],
@@ -6336,6 +6333,7 @@ var rules = [
             ["taipei.gov.tw","DOMAIN-SUFFIX"],
             ["taipeisociety.org","DOMAIN-SUFFIX"],
             ["taipeitimes.com","DOMAIN-SUFFIX"],
+            ["taisounds.com","DOMAIN-SUFFIX"],
             ["taiwan-sex.com","DOMAIN-KEYWORD"],
             ["taiwandaily.net","DOMAIN-SUFFIX"],
             ["taiwanhot.net","DOMAIN-SUFFIX"],
@@ -6925,7 +6923,7 @@ var rules = [
             ["wefightcensorship.org","DOMAIN-SUFFIX"],
             ["weiboleak.com","DOMAIN-KEYWORD"],
             ["weiboscope.jmsc.hku.hk","DOMAIN-KEYWORD"],
-            ["weijingsheng.org","DOMAIN-KEYWORD"],
+            ["weijingsheng.org","DOMAIN-SUFFIX"],
             ["weiming.info","DOMAIN-SUFFIX"],
             ["weiquanwang.org","DOMAIN-KEYWORD"],
             ["welt.de","DOMAIN-SUFFIX"],
