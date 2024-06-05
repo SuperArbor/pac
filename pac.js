@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-06-04 19:43:23
- * GFWList Last-Modified: 2024-06-03 17:32:45
+ * Generated: 2024-06-05 19:43:13
+ * GFWList Last-Modified: 2024-06-05 16:48:37
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2735,6 +2735,7 @@ var rules = [
             ["apkmonk.com","DOMAIN-SUFFIX"],
             ["apkplz.com","DOMAIN-SUFFIX"],
             ["apkpure.com","DOMAIN-SUFFIX"],
+            ["apkpure.net","DOMAIN-SUFFIX"],
             ["app.heywire.com","DOMAIN-KEYWORD"],
             ["appbrain.com","DOMAIN-SUFFIX"],
             ["appledaily.com","DOMAIN-SUFFIX"],
@@ -3393,6 +3394,7 @@ var rules = [
             ["deviantart.net","DOMAIN-SUFFIX"],
             ["devio.us","DOMAIN-SUFFIX"],
             ["devpn.com","DOMAIN-SUFFIX"],
+            ["devv.ai","DOMAIN-SUFFIX"],
             ["dfas.mil","DOMAIN-SUFFIX"],
             ["dfn.org","DOMAIN-KEYWORD"],
             ["dharmakara.net","DOMAIN-KEYWORD"],
