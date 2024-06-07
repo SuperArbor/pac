@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-06-06 19:43:19
- * GFWList Last-Modified: 2024-06-05 16:48:37
+ * Generated: 2024-06-07 19:43:24
+ * GFWList Last-Modified: 2024-06-07 03:48:34
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -76,7 +76,6 @@ var rules = [
             ["http://xx.wwwhost.biz","DOMAIN-KEYWORD"],
             ["https://cdn.ampproject.org","DOMAIN-KEYWORD"],
             ["https://www.ampproject.org","DOMAIN-KEYWORD"],
-            ["https://www.lightnovel.cn","DOMAIN-KEYWORD"],
             ["iner.gov.tw","DOMAIN-SUFFIX"],
             ["ip.cn","DOMAIN-SUFFIX"],
             ["jike.com","DOMAIN-SUFFIX"],
@@ -1367,9 +1366,6 @@ var rules = [
             [".liangyou.net","DOMAIN-KEYWORD"],
             [".lianyue.net","DOMAIN-KEYWORD"],
             [".liaowangxizang.net","DOMAIN-KEYWORD"],
-            [".libertytimes.com.tw","DOMAIN-KEYWORD"],
-            [".lighten.org.tw","DOMAIN-KEYWORD"],
-            [".lightnovel.cn","DOMAIN-KEYWORD"],
             [".linglingfa.com","DOMAIN-KEYWORD"],
             [".link-o-rama.com","DOMAIN-KEYWORD"],
             [".linkideo.com","DOMAIN-KEYWORD"],
@@ -5144,9 +5140,13 @@ var rules = [
             ["liangzhichuanmei.com","DOMAIN-SUFFIX"],
             ["liaowangxizang.net","DOMAIN-SUFFIX"],
             ["liberal.org.hk","DOMAIN-SUFFIX"],
+            ["libertysculpturepark.com","DOMAIN-SUFFIX"],
+            ["libertytimes.com.tw","DOMAIN-SUFFIX"],
             ["libredd.it","DOMAIN-SUFFIX"],
             ["lifemiles.com","DOMAIN-SUFFIX"],
+            ["lighten.org.tw","DOMAIN-SUFFIX"],
             ["lighti.me","DOMAIN-SUFFIX"],
+            ["lightnovel.cn","DOMAIN-SUFFIX"],
             ["lightyearvpn.com","DOMAIN-SUFFIX"],
             ["lihkg.com","DOMAIN-SUFFIX"],
             ["like.com","DOMAIN-SUFFIX"],
@@ -7026,6 +7026,7 @@ var rules = [
             ["wrchina.org","DOMAIN-KEYWORD"],
             ["wretch.cc","DOMAIN-KEYWORD"],
             ["writer.zoho.com","DOMAIN-KEYWORD"],
+            ["writesonic.com","DOMAIN-SUFFIX"],
             ["wsj.com","DOMAIN-SUFFIX"],
             ["wsj.net","DOMAIN-SUFFIX"],
             ["wuerkaixi.com","DOMAIN-KEYWORD"],
