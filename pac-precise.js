@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2024-07-08 19:43:24
+ * Generated: 2024-07-09 19:43:27
  * GFWList Last-Modified: 2024-06-07 03:48:34
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
