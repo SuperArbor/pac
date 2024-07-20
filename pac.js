@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-07-19 19:43:04
- * GFWList Last-Modified: 2024-06-07 03:48:34
+ * Generated: 2024-07-20 19:43:15
+ * GFWList Last-Modified: 2024-07-20 17:42:41
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2712,6 +2712,7 @@ var rules = [
             ["anontext.com","DOMAIN-KEYWORD"],
             ["anonymouse.org","DOMAIN-SUFFIX"],
             ["anthonycalzadilla.com","DOMAIN-SUFFIX"],
+            ["anthropic.com","DOMAIN-SUFFIX"],
             ["antichristendom.com","DOMAIN-KEYWORD"],
             ["ao3.org","DOMAIN-SUFFIX"],
             ["aobo.com.au","DOMAIN-SUFFIX"],
@@ -2950,6 +2951,7 @@ var rules = [
             ["bloomfortune.com","DOMAIN-SUFFIX"],
             ["blubrry.com","DOMAIN-SUFFIX"],
             ["blueangellive.com","DOMAIN-KEYWORD"],
+            ["bnbstatic.com","DOMAIN-SUFFIX"],
             ["bnews.co","DOMAIN-SUFFIX"],
             ["bnext.com.tw","DOMAIN-SUFFIX"],
             ["bnn.co","DOMAIN-SUFFIX"],
@@ -3202,6 +3204,7 @@ var rules = [
             ["ck101.com","DOMAIN-SUFFIX"],
             ["cl.d0z.net","DOMAIN-KEYWORD"],
             ["classicalguitarblog.net","DOMAIN-SUFFIX"],
+            ["claude.ai","DOMAIN-SUFFIX"],
             ["clearharmony.net","DOMAIN-KEYWORD"],
             ["clearsurance.com","DOMAIN-SUFFIX"],
             ["clearwisdom.net","DOMAIN-KEYWORD"],
@@ -5743,6 +5746,7 @@ var rules = [
             ["peopo.org","DOMAIN-SUFFIX"],
             ["perfect-privacy.com","DOMAIN-SUFFIX"],
             ["periscope.tv","DOMAIN-SUFFIX"],
+            ["perplexity.ai","DOMAIN-SUFFIX"],
             ["phapluan.org","DOMAIN-KEYWORD"],
             ["phayul.com","DOMAIN-SUFFIX"],
             ["philborges.com","DOMAIN-KEYWORD"],
