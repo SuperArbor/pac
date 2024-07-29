@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-07-28 19:43:19
- * GFWList Last-Modified: 2024-07-20 17:42:41
+ * Generated: 2024-07-29 19:43:05
+ * GFWList Last-Modified: 2024-07-29 00:49:46
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2800,6 +2800,7 @@ var rules = [
             ["axios.com","DOMAIN-SUFFIX"],
             ["axureformac.com","DOMAIN-SUFFIX"],
             ["azerimix.com","DOMAIN-KEYWORD"],
+            ["azirevpn.com","DOMAIN-SUFFIX"],
             ["azubu.tv","DOMAIN-SUFFIX"],
             ["azurewebsites.net","DOMAIN-SUFFIX"],
             ["b-ok.cc","DOMAIN-SUFFIX"],
@@ -3220,7 +3221,8 @@ var rules = [
             ["clubhouseapi.com","DOMAIN-SUFFIX"],
             ["clyp.it","DOMAIN-SUFFIX"],
             ["cmcn.org","DOMAIN-SUFFIX"],
-            ["cmi.org.tw","DOMAIN-KEYWORD"],
+            ["cmegroup.com","DOMAIN-SUFFIX"],
+            ["cmi.org.tw","DOMAIN-SUFFIX"],
             ["cmp.hku.hk","DOMAIN-KEYWORD"],
             ["cms.gov","DOMAIN-SUFFIX"],
             ["cmule.com","DOMAIN-SUFFIX"],
@@ -4878,8 +4880,9 @@ var rules = [
             ["im88.tw","DOMAIN-SUFFIX"],
             ["imagefap.com","DOMAIN-SUFFIX"],
             ["imageflea.com","DOMAIN-SUFFIX"],
+            ["imageglass.org","DOMAIN-SUFFIX"],
             ["images-gaytube.com","DOMAIN-SUFFIX"],
-            ["imageshack.us","DOMAIN-KEYWORD"],
+            ["imageshack.us","DOMAIN-SUFFIX"],
             ["imagevenue.com","DOMAIN-SUFFIX"],
             ["imagezilla.net","DOMAIN-SUFFIX"],
             ["img.ly","DOMAIN-SUFFIX"],
