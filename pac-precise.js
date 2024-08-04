@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-08-03 19:43:05
- * GFWList Last-Modified: 2024-07-29 00:49:46
+ * Generated: 2024-08-04 19:43:09
+ * GFWList Last-Modified: 2024-08-04 01:26:19
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2205,6 +2205,7 @@ var rules = [
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.internetpopculture\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.inthenameofconfuciusmovie\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.inxian\.com",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ipfire\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iphone4hongkong\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iphonehacks\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iphonetaiwan\.org",
@@ -2237,6 +2238,7 @@ var rules = [
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iuhrdf\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ivacy\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ivpn\.net",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iwara\.tv",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ixquick\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iyouport\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.iyouport\.org",
@@ -3309,11 +3311,12 @@ var rules = [
             "^http://tibetoffice\.ch",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetoffice\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetonline\.com",
-            "^http://tibetoffice\.com\.au",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetoffice\.com\.au",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetonline\.tv",
-            "^http://tibetoralhistory\.org",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetoralhistory\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetsociety\.com",
-            "^http://tibetsupportgroup\.org",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetsupportgroup\.org",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibettruth\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tibetwrites\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.tigervpn\.com",
             "^http://timdir\.com",
