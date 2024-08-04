@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-08-03 19:43:05
- * GFWList Last-Modified: 2024-07-29 00:49:46
+ * Generated: 2024-08-04 19:43:09
+ * GFWList Last-Modified: 2024-08-04 01:26:19
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1213,7 +1213,6 @@ var rules = [
             [".inthenameofconfuciusmovie.com","DOMAIN-KEYWORD"],
             [".iownyour.biz","DOMAIN-KEYWORD"],
             [".iownyour.org","DOMAIN-KEYWORD"],
-            [".ipfire.org","DOMAIN-KEYWORD"],
             [".ipjetable.net","DOMAIN-KEYWORD"],
             [".ipobar.com/read.php?","DOMAIN-KEYWORD"],
             [".iportal.me","DOMAIN-KEYWORD"],
@@ -4675,9 +4674,6 @@ var rules = [
             ["http://tibetansports.org","DOMAIN-KEYWORD"],
             ["http://tibetanwomen.org","DOMAIN-KEYWORD"],
             ["http://tibetoffice.ch","DOMAIN-KEYWORD"],
-            ["http://tibetoffice.com.au","DOMAIN-KEYWORD"],
-            ["http://tibetoralhistory.org","DOMAIN-KEYWORD"],
-            ["http://tibetsupportgroup.org","DOMAIN-KEYWORD"],
             ["http://timdir.com","DOMAIN-KEYWORD"],
             ["http://time.com","DOMAIN-KEYWORD"],
             ["http://tiny.cc","DOMAIN-KEYWORD"],
@@ -4926,6 +4922,7 @@ var rules = [
             ["inthenameofconfuciusmovie.com","DOMAIN-SUFFIX"],
             ["inxian.com","DOMAIN-SUFFIX"],
             ["ipalter.com","DOMAIN-KEYWORD"],
+            ["ipfire.org","DOMAIN-SUFFIX"],
             ["ipfs.io","DOMAIN-SUFFIX"],
             ["iphone4hongkong.com","DOMAIN-SUFFIX"],
             ["iphonehacks.com","DOMAIN-SUFFIX"],
@@ -4964,6 +4961,7 @@ var rules = [
             ["iuhrdf.org","DOMAIN-SUFFIX"],
             ["ivacy.com","DOMAIN-SUFFIX"],
             ["ivpn.net","DOMAIN-SUFFIX"],
+            ["iwara.tv","DOMAIN-SUFFIX"],
             ["ixquick.com","DOMAIN-SUFFIX"],
             ["iyouport.com","DOMAIN-SUFFIX"],
             ["iyouport.org","DOMAIN-SUFFIX"],
@@ -6500,13 +6498,17 @@ var rules = [
             ["tibetlibre.free.fr","DOMAIN-KEYWORD"],
             ["tibetmuseum.org","DOMAIN-SUFFIX"],
             ["tibetnetwork.org","DOMAIN-SUFFIX"],
+            ["tibetoffice.com.au","DOMAIN-SUFFIX"],
             ["tibetoffice.eu","DOMAIN-KEYWORD"],
             ["tibetoffice.org","DOMAIN-SUFFIX"],
             ["tibetonline.com","DOMAIN-SUFFIX"],
             ["tibetonline.tv","DOMAIN-SUFFIX"],
+            ["tibetoralhistory.org","DOMAIN-SUFFIX"],
             ["tibetsites.com","DOMAIN-KEYWORD"],
             ["tibetsociety.com","DOMAIN-SUFFIX"],
+            ["tibetsupportgroup.org","DOMAIN-SUFFIX"],
             ["tibettimes.net","DOMAIN-KEYWORD"],
+            ["tibettruth.com","DOMAIN-SUFFIX"],
             ["tibetwrites.org","DOMAIN-SUFFIX"],
             ["tigervpn.com","DOMAIN-SUFFIX"],
             ["tiktok.com","DOMAIN-SUFFIX"],
