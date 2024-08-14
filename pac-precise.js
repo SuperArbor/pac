@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-08-13 19:43:12
- * GFWList Last-Modified: 2024-08-04 01:26:19
+ * Generated: 2024-08-14 19:43:22
+ * GFWList Last-Modified: 2024-08-14 19:07:05
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3165,6 +3165,7 @@ var rules = [
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.storm\.mg",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.stoptibetcrisis\.net",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.storify\.com",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.storj\.io",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.stoweboyd\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.straitstimes\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.straplessdildo\.com",
@@ -3511,6 +3512,7 @@ var rules = [
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.usacn\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.usaip\.eu",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.uscnpm\.org",
+            "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.uscardforum\.com",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.usma\.edu",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ustibetcommittee\.org",
             "^(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.ustream\.tv",
