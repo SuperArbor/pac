@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-08-13 19:43:12
- * GFWList Last-Modified: 2024-08-04 01:26:19
+ * Generated: 2024-08-14 19:43:22
+ * GFWList Last-Modified: 2024-08-14 19:07:05
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3350,7 +3350,6 @@ var rules = [
             ["dajusha.baywords.com","DOMAIN-KEYWORD"],
             ["dalailama.com","DOMAIN-KEYWORD"],
             ["dalailama.ru","DOMAIN-SUFFIX"],
-            ["dalailama.usc.edu","DOMAIN-KEYWORD"],
             ["dalailama80.org","DOMAIN-KEYWORD"],
             ["dalailamafellows.org","DOMAIN-KEYWORD"],
             ["dalailamaworld.com","DOMAIN-SUFFIX"],
@@ -6282,6 +6281,7 @@ var rules = [
             ["storagenewsletter.com","DOMAIN-SUFFIX"],
             ["stories.google","DOMAIN-SUFFIX"],
             ["storify.com","DOMAIN-SUFFIX"],
+            ["storj.io","DOMAIN-SUFFIX"],
             ["storm.mg","DOMAIN-SUFFIX"],
             ["stoweboyd.com","DOMAIN-SUFFIX"],
             ["straitstimes.com","DOMAIN-SUFFIX"],
@@ -6752,6 +6752,7 @@ var rules = [
             ["us.to","DOMAIN-KEYWORD"],
             ["usacn.com","DOMAIN-SUFFIX"],
             ["usaip.eu","DOMAIN-SUFFIX"],
+            ["uscardforum.com","DOMAIN-SUFFIX"],
             ["uscnpm.org","DOMAIN-SUFFIX"],
             ["userapi.nytlog.com","DOMAIN-KEYWORD"],
             ["usfk.mil","DOMAIN-SUFFIX"],
