@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-09-16 19:43:36
- * GFWList Last-Modified: 2024-09-02 15:03:48
+ * Generated: 2024-09-17 19:43:08
+ * GFWList Last-Modified: 2024-09-17 15:45:49
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -5691,6 +5691,7 @@ var rules = [
             ["parse.com","DOMAIN-SUFFIX"],
             ["parsevideo.com","DOMAIN-SUFFIX"],
             ["passion.com","DOMAIN-SUFFIX"],
+            ["passwords.google","DOMAIN-SUFFIX"],
             ["paste.ee","DOMAIN-SUFFIX"],
             ["pastebin.com","DOMAIN-KEYWORD"],
             ["pastie.org","DOMAIN-SUFFIX"],
