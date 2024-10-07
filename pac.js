@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-10-06 19:43:15
- * GFWList Last-Modified: 2024-09-17 15:45:49
+ * Generated: 2024-10-07 19:43:18
+ * GFWList Last-Modified: 2024-10-07 15:39:43
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3582,6 +3582,7 @@ var rules = [
             ["fa.gov.tw","DOMAIN-SUFFIX"],
             ["facebook.br","DOMAIN-SUFFIX"],
             ["facebook.com","DOMAIN-SUFFIX"],
+            ["facebook.de","DOMAIN-SUFFIX"],
             ["facebook.design","DOMAIN-SUFFIX"],
             ["facebook.hu","DOMAIN-SUFFIX"],
             ["facebook.in","DOMAIN-SUFFIX"],
@@ -5277,6 +5278,7 @@ var rules = [
             ["merit-times.com.tw","DOMAIN-SUFFIX"],
             ["meshrep.com","DOMAIN-KEYWORD"],
             ["messenger.com","DOMAIN-SUFFIX"],
+            ["meta.com","DOMAIN-SUFFIX"],
             ["metacafe.com/watch","DOMAIN-KEYWORD"],
             ["metafilter.com","DOMAIN-SUFFIX"],
             ["metart.com","DOMAIN-SUFFIX"],
@@ -6541,6 +6543,7 @@ var rules = [
             ["torrentprivacy.com","DOMAIN-SUFFIX"],
             ["torrenty.org","DOMAIN-SUFFIX"],
             ["torrentz.eu","DOMAIN-SUFFIX"],
+            ["tortoisesvn.net","DOMAIN-SUFFIX"],
             ["torvpn.com","DOMAIN-SUFFIX"],
             ["totalvpn.com","DOMAIN-SUFFIX"],
             ["towngain.com","DOMAIN-KEYWORD"],
