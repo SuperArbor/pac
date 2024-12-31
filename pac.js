@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2024-12-30 19:43:18
- * GFWList Last-Modified: 2024-12-30 15:11:29
+ * Generated: 2024-12-31 19:43:16
+ * GFWList Last-Modified: 2024-12-31 14:47:01
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -4188,6 +4188,7 @@ var rules = [
             ["greenvpn.net","DOMAIN-SUFFIX"],
             ["grindr.com","DOMAIN-SUFFIX"],
             ["grotty-monday.com","DOMAIN-SUFFIX"],
+            ["ground.news","DOMAIN-SUFFIX"],
             ["grow.google","DOMAIN-SUFFIX"],
             ["gs-discuss.com","DOMAIN-KEYWORD"],
             ["gsearch.media","DOMAIN-SUFFIX"],
@@ -4249,6 +4250,7 @@ var rules = [
             ["here.com","DOMAIN-SUFFIX"],
             ["heritage.org","DOMAIN-SUFFIX"],
             ["heroku.com","DOMAIN-SUFFIX"],
+            ["herokuapp.com","DOMAIN-SUFFIX"],
             ["heungkongdiscuss.com","DOMAIN-SUFFIX"],
             ["hexieshe.com","DOMAIN-SUFFIX"],
             ["hexieshe.xyz","DOMAIN-SUFFIX"],
@@ -4355,6 +4357,7 @@ var rules = [
             ["howtoforge.com","DOMAIN-SUFFIX"],
             ["hoxx.com","DOMAIN-SUFFIX"],
             ["hpa.gov.tw","DOMAIN-SUFFIX"],
+            ["hpjav.com","DOMAIN-SUFFIX"],
             ["hqcdp.org","DOMAIN-SUFFIX"],
             ["hqjapanesesex.com","DOMAIN-SUFFIX"],
             ["hqmovies.com","DOMAIN-KEYWORD"],
@@ -4596,7 +4599,6 @@ var rules = [
             ["http://onthehunt.com","DOMAIN-KEYWORD"],
             ["http://opus-gaming.com","DOMAIN-KEYWORD"],
             ["http://owl.li","DOMAIN-KEYWORD"],
-            ["http://pcij.org","DOMAIN-KEYWORD"],
             ["http://pearlher.org","DOMAIN-KEYWORD"],
             ["http://pemulihan.or.id","DOMAIN-KEYWORD"],
             ["http://pictures.playboy.com","DOMAIN-KEYWORD"],
@@ -4804,6 +4806,7 @@ var rules = [
             ["iam.soy","DOMAIN-SUFFIX"],
             ["iask.bz","DOMAIN-SUFFIX"],
             ["iask.ca","DOMAIN-SUFFIX"],
+            ["iavian.net","DOMAIN-SUFFIX"],
             ["ibiblio.org/pub/packages/ccic","DOMAIN-KEYWORD"],
             ["ibit.am","DOMAIN-SUFFIX"],
             ["iblogserv-f.net","DOMAIN-SUFFIX"],
@@ -5703,6 +5706,8 @@ var rules = [
             ["pbxes.org","DOMAIN-SUFFIX"],
             ["pcc.gov.tw","DOMAIN-SUFFIX"],
             ["pcdvd.com.tw","DOMAIN-KEYWORD"],
+            ["pcgamestorrents.com","DOMAIN-SUFFIX"],
+            ["pcij.org","DOMAIN-SUFFIX"],
             ["pcloud.com","DOMAIN-SUFFIX"],
             ["pct.org.tw","DOMAIN-SUFFIX"],
             ["pdetails.com","DOMAIN-KEYWORD"],
