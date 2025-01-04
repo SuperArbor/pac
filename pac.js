@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-01-03 19:43:10
- * GFWList Last-Modified: 2024-12-31 14:47:01
+ * Generated: 2025-01-04 19:43:04
+ * GFWList Last-Modified: 2025-01-04 16:07:40
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3214,6 +3214,7 @@ var rules = [
             ["cn.voa.mobi","DOMAIN-KEYWORD"],
             ["cn2.streetvoice.com","DOMAIN-KEYWORD"],
             ["cna.com.tw","DOMAIN-SUFFIX"],
+            ["cnbeta.com.tw","DOMAIN-SUFFIX"],
             ["cnd.org","DOMAIN-SUFFIX"],
             ["cnpolitics.org","DOMAIN-SUFFIX"],
             ["co.tv","DOMAIN-SUFFIX"],
