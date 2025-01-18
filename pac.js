@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-01-17 19:43:09
- * GFWList Last-Modified: 2025-01-12 16:56:36
+ * Generated: 2025-01-18 19:43:18
+ * GFWList Last-Modified: 2025-01-18 14:37:56
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -357,7 +357,6 @@ var rules = [
             [".beyondfirewall.com","DOMAIN-KEYWORD"],
             [".bgvpn.com","DOMAIN-KEYWORD"],
             [".bianlei.com","DOMAIN-KEYWORD"],
-            [".biblesforamerica.org","DOMAIN-KEYWORD"],
             [".bic2011.org","DOMAIN-KEYWORD"],
             [".bigmoney.biz","DOMAIN-KEYWORD"],
             [".bignews.org","DOMAIN-KEYWORD"],
@@ -1811,7 +1810,6 @@ var rules = [
             [".salvation.org.hk","DOMAIN-KEYWORD"],
             [".samair.ru/proxy/type-01","DOMAIN-KEYWORD"],
             [".sambhota.org","DOMAIN-KEYWORD"],
-            [".sanmin.com.tw","DOMAIN-KEYWORD"],
             [".savetibet.de","DOMAIN-KEYWORD"],
             [".savetibet.org","DOMAIN-KEYWORD"],
             [".savetibetstore.org","DOMAIN-KEYWORD"],
@@ -2570,6 +2568,7 @@ var rules = [
             ["abc.net.au","DOMAIN-SUFFIX"],
             ["abc.xyz","DOMAIN-SUFFIX"],
             ["abclite.net","DOMAIN-KEYWORD"],
+            ["abebooks.co.uk","DOMAIN-SUFFIX"],
             ["abebooks.com","DOMAIN-SUFFIX"],
             ["abitno.linpie.com/use-ipv6-to-fuck-gfw","DOMAIN-KEYWORD"],
             ["aboluowang.com","DOMAIN-SUFFIX"],
@@ -2851,6 +2850,8 @@ var rules = [
             ["bgvpn.com","DOMAIN-SUFFIX"],
             ["biantailajiao.com","DOMAIN-KEYWORD"],
             ["biantailajiao.in","DOMAIN-KEYWORD"],
+            ["biblesforamerica.org","DOMAIN-SUFFIX"],
+            ["bibliocommons.com","DOMAIN-SUFFIX"],
             ["bibox.com","DOMAIN-SUFFIX"],
             ["biedian.me","DOMAIN-SUFFIX"],
             ["big.one","DOMAIN-SUFFIX"],
@@ -3031,6 +3032,7 @@ var rules = [
             ["cari.com.my","DOMAIN-SUFFIX"],
             ["caribbeancom.com","DOMAIN-SUFFIX"],
             ["carmotorshow.com","DOMAIN-KEYWORD"],
+            ["carousell.com.hk","DOMAIN-SUFFIX"],
             ["carrd.co","DOMAIN-SUFFIX"],
             ["cartoonmovement.com","DOMAIN-SUFFIX"],
             ["casinobellini.com","DOMAIN-SUFFIX"],
@@ -3081,6 +3083,7 @@ var rules = [
             ["change.org","DOMAIN-SUFFIX"],
             ["changp.com","DOMAIN-SUFFIX"],
             ["channelnewsasia.com","DOMAIN-SUFFIX"],
+            ["chanworld.org","DOMAIN-SUFFIX"],
             ["chaoex.com","DOMAIN-SUFFIX"],
             ["chatgpt.com","DOMAIN-SUFFIX"],
             ["chaturbate.com","DOMAIN-SUFFIX"],
@@ -3202,7 +3205,6 @@ var rules = [
             ["cmule.org","DOMAIN-SUFFIX"],
             ["cmx.im","DOMAIN-SUFFIX"],
             ["cn.com","DOMAIN-SUFFIX"],
-            ["cn.dayabook.com","DOMAIN-KEYWORD"],
             ["cn.freeones.com","DOMAIN-KEYWORD"],
             ["cn.nytstyle.com","DOMAIN-KEYWORD"],
             ["cn.streetvoice.com/article","DOMAIN-KEYWORD"],
@@ -3336,6 +3338,7 @@ var rules = [
             ["darktoy.net","DOMAIN-KEYWORD"],
             ["darpa.mil","DOMAIN-SUFFIX"],
             ["darrenliuwei.com","DOMAIN-SUFFIX"],
+            ["dashlane.com","DOMAIN-SUFFIX"],
             ["dastrassi.org","DOMAIN-SUFFIX"],
             ["data-vocabulary.org","DOMAIN-SUFFIX"],
             ["data.gov.tw","DOMAIN-SUFFIX"],
@@ -3542,7 +3545,6 @@ var rules = [
             ["eromanga-kingdom.com","DOMAIN-SUFFIX"],
             ["eromangadouzin.com","DOMAIN-SUFFIX"],
             ["eslite.com","DOMAIN-SUFFIX"],
-            ["esu.dog","DOMAIN-SUFFIX"],
             ["esurance.com","DOMAIN-SUFFIX"],
             ["etaiwannews.com","DOMAIN-KEYWORD"],
             ["etherdelta.com","DOMAIN-SUFFIX"],
@@ -4407,7 +4409,6 @@ var rules = [
             ["http://bbs.mikocon.com","DOMAIN-KEYWORD"],
             ["http://beijingzx.org","DOMAIN-KEYWORD"],
             ["http://bell.wiki","DOMAIN-KEYWORD"],
-            ["http://biblesforamerica.org","DOMAIN-KEYWORD"],
             ["http://biliworld.com","DOMAIN-KEYWORD"],
             ["http://billypan.com/wiki","DOMAIN-KEYWORD"],
             ["http://bit.do","DOMAIN-KEYWORD"],
@@ -5292,6 +5293,7 @@ var rules = [
             ["mh4u.org","DOMAIN-SUFFIX"],
             ["mhradio.org","DOMAIN-KEYWORD"],
             ["michaelmarketl.com","DOMAIN-SUFFIX"],
+            ["microsoft.com","DOMAIN-SUFFIX"],
             ["middle-way.net","DOMAIN-KEYWORD"],
             ["mihua.org","DOMAIN-KEYWORD"],
             ["mikesoltys.com","DOMAIN-SUFFIX"],
@@ -5801,6 +5803,7 @@ var rules = [
             ["polymer-project.org","DOMAIN-SUFFIX"],
             ["polymerhk.com","DOMAIN-SUFFIX"],
             ["poolin.com","DOMAIN-SUFFIX"],
+            ["popai.pro","DOMAIN-SUFFIX"],
             ["popvote.hk","DOMAIN-SUFFIX"],
             ["popxi.click","DOMAIN-SUFFIX"],
             ["popyard.org","DOMAIN-SUFFIX"],
@@ -6041,6 +6044,7 @@ var rules = [
             ["sandscotaicentral.com","DOMAIN-SUFFIX"],
             ["sankakucomplex.com","DOMAIN-SUFFIX"],
             ["sankei.com","DOMAIN-SUFFIX"],
+            ["sanmin.com.tw","DOMAIN-SUFFIX"],
             ["sans.edu","DOMAIN-SUFFIX"],
             ["sapikachu.net","DOMAIN-KEYWORD"],
             ["saveliuxiaobo.com","DOMAIN-SUFFIX"],
@@ -6974,7 +6978,6 @@ var rules = [
             ["whyx.org","DOMAIN-SUFFIX"],
             ["widevine.com","DOMAIN-SUFFIX"],
             ["wiki.cnitter.com","DOMAIN-KEYWORD"],
-            ["wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95","DOMAIN-KEYWORD"],
             ["wiki.keso.cn/Home","DOMAIN-KEYWORD"],
             ["wiki.moegirl.org","DOMAIN-KEYWORD"],
             ["wikia.com","DOMAIN-SUFFIX"],
