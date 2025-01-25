@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-01-24 19:43:12
- * GFWList Last-Modified: 2025-01-24 16:48:36
+ * Generated: 2025-01-25 19:43:17
+ * GFWList Last-Modified: 2025-01-25 16:16:19
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2963,6 +2963,7 @@ var rules = [
             ["btctrade.im","DOMAIN-SUFFIX"],
             ["btdig.com","DOMAIN-SUFFIX"],
             ["btdigg.org","DOMAIN-SUFFIX"],
+            ["btguard.com","DOMAIN-SUFFIX"],
             ["btku.me","DOMAIN-SUFFIX"],
             ["btku.org","DOMAIN-SUFFIX"],
             ["budaedu.org","DOMAIN-SUFFIX"],
@@ -3396,6 +3397,7 @@ var rules = [
             ["dlsite.com","DOMAIN-SUFFIX"],
             ["dlyoutube.com","DOMAIN-SUFFIX"],
             ["dm530.net","DOMAIN-SUFFIX"],
+            ["dma.mil","DOMAIN-SUFFIX"],
             ["dmc.nico","DOMAIN-SUFFIX"],
             ["dmcdn.net","DOMAIN-SUFFIX"],
             ["dmhy.org","DOMAIN-SUFFIX"],
@@ -4162,6 +4164,7 @@ var rules = [
             ["googlepagecreator.com","DOMAIN-SUFFIX"],
             ["googleplay.com","DOMAIN-SUFFIX"],
             ["googleplus.com","DOMAIN-SUFFIX"],
+            ["googlescholar.com","DOMAIN-SUFFIX"],
             ["googlesource.com","DOMAIN-SUFFIX"],
             ["googleusercontent.com","DOMAIN-SUFFIX"],
             ["googlevideo.com","DOMAIN-SUFFIX"],
@@ -6745,6 +6748,7 @@ var rules = [
             ["typora.io","DOMAIN-SUFFIX"],
             ["u15.info","DOMAIN-SUFFIX"],
             ["u9un.com","DOMAIN-SUFFIX"],
+            ["ua5v.com","DOMAIN-SUFFIX"],
             ["uberproxy.net","DOMAIN-SUFFIX"],
             ["uc-japan.org","DOMAIN-SUFFIX"],
             ["ucdc1998.org","DOMAIN-SUFFIX"],
@@ -6765,6 +6769,8 @@ var rules = [
             ["ukliferadio.co.uk","DOMAIN-SUFFIX"],
             ["uku.im","DOMAIN-SUFFIX"],
             ["ulop.net","DOMAIN-SUFFIX"],
+            ["ultrasurf.us","DOMAIN-SUFFIX"],
+            ["ultravpn.com","DOMAIN-SUFFIX"],
             ["ultravpn.fr","DOMAIN-SUFFIX"],
             ["ultraxs.com","DOMAIN-KEYWORD"],
             ["umich.edu/~falun","DOMAIN-KEYWORD"],
@@ -6798,6 +6804,7 @@ var rules = [
             ["usacn.com","DOMAIN-SUFFIX"],
             ["usaip.eu","DOMAIN-SUFFIX"],
             ["uscardforum.com","DOMAIN-SUFFIX"],
+            ["uscg.mil","DOMAIN-SUFFIX"],
             ["uscnpm.org","DOMAIN-SUFFIX"],
             ["userapi.nytlog.com","DOMAIN-KEYWORD"],
             ["usercontent.goog","DOMAIN-SUFFIX"],
@@ -6917,6 +6924,7 @@ var rules = [
             ["vpnpick.com","DOMAIN-SUFFIX"],
             ["vpnpop.com","DOMAIN-SUFFIX"],
             ["vpnpronet.com","DOMAIN-SUFFIX"],
+            ["vpnproxymaster.com","DOMAIN-SUFFIX"],
             ["vpnreactor.com","DOMAIN-SUFFIX"],
             ["vpnreviewz.com","DOMAIN-SUFFIX"],
             ["vpnsecure.me","DOMAIN-SUFFIX"],
@@ -7022,6 +7030,8 @@ var rules = [
             ["wiki.cnitter.com","DOMAIN-KEYWORD"],
             ["wiki.keso.cn/Home","DOMAIN-KEYWORD"],
             ["wikia.com","DOMAIN-SUFFIX"],
+            ["wikibooks.org","DOMAIN-SUFFIX"],
+            ["wikidata.org","DOMAIN-SUFFIX"],
             ["wikileaks.ch","DOMAIN-SUFFIX"],
             ["wikileaks.com","DOMAIN-SUFFIX"],
             ["wikileaks.de","DOMAIN-SUFFIX"],
@@ -7035,8 +7045,11 @@ var rules = [
             ["wikinews.org","DOMAIN-SUFFIX"],
             ["wikipedia.org","DOMAIN-SUFFIX"],
             ["wikiquote.org","DOMAIN-SUFFIX"],
+            ["wikiversity.org","DOMAIN-SUFFIX"],
+            ["wikivoyage.org","DOMAIN-SUFFIX"],
             ["wikiwand.com","DOMAIN-SUFFIX"],
             ["wikiwiki.jp","DOMAIN-SUFFIX"],
+            ["wiktionary.org","DOMAIN-SUFFIX"],
             ["wildammo.com","DOMAIN-KEYWORD"],
             ["williamhill.com","DOMAIN-SUFFIX"],
             ["willw.net","DOMAIN-SUFFIX"],
@@ -7059,6 +7072,7 @@ var rules = [
             ["wjbk.org","DOMAIN-SUFFIX"],
             ["wlcnew.jigsy.com","DOMAIN-KEYWORD"],
             ["wmflabs.org","DOMAIN-SUFFIX"],
+            ["wmfusercontent.org","DOMAIN-SUFFIX"],
             ["wn.com","DOMAIN-SUFFIX"],
             ["wnacg.com","DOMAIN-SUFFIX"],
             ["wnacg.org","DOMAIN-SUFFIX"],
@@ -7198,6 +7212,7 @@ var rules = [
             ["yandex.ru","DOMAIN-SUFFIX"],
             ["yangjianli.com","DOMAIN-KEYWORD"],
             ["yasni.co.uk","DOMAIN-SUFFIX"],
+            ["yasukuni.or.jp","DOMAIN-SUFFIX"],
             ["ycombinator.com","DOMAIN-SUFFIX"],
             ["yeahteentube.com","DOMAIN-SUFFIX"],
             ["yecl.net","DOMAIN-SUFFIX"],
@@ -7253,6 +7268,7 @@ var rules = [
             ["yuanming.net","DOMAIN-KEYWORD"],
             ["yulghun.com","DOMAIN-SUFFIX"],
             ["yunchao.net","DOMAIN-SUFFIX"],
+            ["yunomi.tokyo","DOMAIN-SUFFIX"],
             ["yvesgeleyn.com","DOMAIN-SUFFIX"],
             ["yx51.net","DOMAIN-KEYWORD"],
             ["yyii.org","DOMAIN-SUFFIX"],
