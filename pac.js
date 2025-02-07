@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-02-06 19:43:05
- * GFWList Last-Modified: 2025-01-25 16:16:19
+ * Generated: 2025-02-07 19:43:18
+ * GFWList Last-Modified: 2025-02-07 04:07:23
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -585,12 +585,8 @@ var rules = [
             [".crocotube.com","DOMAIN-KEYWORD"],
             [".crossthewall.net","DOMAIN-KEYWORD"],
             [".crossvpn.net","DOMAIN-KEYWORD"],
-            [".csw.org.uk","DOMAIN-KEYWORD"],
-            [".ct.org.tw","DOMAIN-KEYWORD"],
             [".ctao.org","DOMAIN-KEYWORD"],
             [".ctfriend.net","DOMAIN-KEYWORD"],
-            [".ctitv.com.tw","DOMAIN-KEYWORD"],
-            [".cts.com.tw","DOMAIN-KEYWORD"],
             [".cuhkacs.org/~benng","DOMAIN-KEYWORD"],
             [".cuihua.org","DOMAIN-KEYWORD"],
             [".cuiweiping.net","DOMAIN-KEYWORD"],
@@ -1553,7 +1549,6 @@ var rules = [
             [".nowtorrents.com","DOMAIN-KEYWORD"],
             [".noypf.com","DOMAIN-KEYWORD"],
             [".npnt.me","DOMAIN-KEYWORD"],
-            [".nps.gov","DOMAIN-KEYWORD"],
             [".nradio.me","DOMAIN-KEYWORD"],
             [".nrk.no","DOMAIN-KEYWORD"],
             [".ns01.biz","DOMAIN-KEYWORD"],
@@ -2627,6 +2622,7 @@ var rules = [
             ["ameblo.jp","DOMAIN-SUFFIX"],
             ["america.gov","DOMAIN-SUFFIX"],
             ["americangreencard.com","DOMAIN-SUFFIX"],
+            ["americorps.gov","DOMAIN-SUFFIX"],
             ["amiblockedornot.com","DOMAIN-SUFFIX"],
             ["amnesty.org","DOMAIN-SUFFIX"],
             ["amnesty.org.hk","DOMAIN-SUFFIX"],
@@ -3034,6 +3030,7 @@ var rules = [
             ["cccat.cc","DOMAIN-SUFFIX"],
             ["cccat.co","DOMAIN-SUFFIX"],
             ["ccdtr.org","DOMAIN-SUFFIX"],
+            ["ccfd.org.tw","DOMAIN-SUFFIX"],
             ["cchere.com","DOMAIN-SUFFIX"],
             ["cclife.org","DOMAIN-SUFFIX"],
             ["cclifefl.org","DOMAIN-SUFFIX"],
@@ -3274,7 +3271,9 @@ var rules = [
             ["csis.org","DOMAIN-SUFFIX"],
             ["csmonitor.com","DOMAIN-SUFFIX"],
             ["csuchen.de","DOMAIN-SUFFIX"],
+            ["csw.org.uk","DOMAIN-SUFFIX"],
             ["ct.org.tw","DOMAIN-SUFFIX"],
+            ["ctitv.com.tw","DOMAIN-SUFFIX"],
             ["ctowc.org","DOMAIN-SUFFIX"],
             ["cts.com.tw","DOMAIN-SUFFIX"],
             ["ctwant.com","DOMAIN-SUFFIX"],
@@ -3908,7 +3907,6 @@ var rules = [
             ["go141.com","DOMAIN-SUFFIX"],
             ["goagent.biz","DOMAIN-SUFFIX"],
             ["goagentplus.com","DOMAIN-SUFFIX"],
-            ["gobet.cc","DOMAIN-KEYWORD"],
             ["godaddy.com","DOMAIN-SUFFIX"],
             ["godfootsteps.org","DOMAIN-SUFFIX"],
             ["godns.work","DOMAIN-KEYWORD"],
@@ -4185,6 +4183,7 @@ var rules = [
             ["graphis.ne.jp","DOMAIN-SUFFIX"],
             ["graphql.org","DOMAIN-SUFFIX"],
             ["gravatar.com","DOMAIN-SUFFIX"],
+            ["greasyfork.org","DOMAIN-SUFFIX"],
             ["great-firewall.com","DOMAIN-KEYWORD"],
             ["great-roc.org","DOMAIN-KEYWORD"],
             ["greatfire.org","DOMAIN-SUFFIX"],
@@ -4695,7 +4694,6 @@ var rules = [
             ["http://wemigrate.org","DOMAIN-KEYWORD"],
             ["http://wiki.gamerp.jp","DOMAIN-KEYWORD"],
             ["http://woyaolian.org","DOMAIN-KEYWORD"],
-            ["http://www.americorps.gov","DOMAIN-KEYWORD"],
             ["http://www.antd.org","DOMAIN-KEYWORD"],
             ["http://www.cmoinc.org","DOMAIN-KEYWORD"],
             ["http://www.dmm.com/netgame","DOMAIN-KEYWORD"],
@@ -4888,6 +4886,7 @@ var rules = [
             ["inthenameofconfuciusmovie.com","DOMAIN-SUFFIX"],
             ["inxian.com","DOMAIN-SUFFIX"],
             ["ipalter.com","DOMAIN-KEYWORD"],
+            ["ipdefenseforum.com","DOMAIN-SUFFIX"],
             ["ipfire.org","DOMAIN-SUFFIX"],
             ["ipfs.io","DOMAIN-SUFFIX"],
             ["iphone4hongkong.com","DOMAIN-SUFFIX"],
@@ -5537,6 +5536,7 @@ var rules = [
             ["nobelprize.org/nobel_prizes/peace/laureates/1989","DOMAIN-KEYWORD"],
             ["nobelprize.org/nobel_prizes/peace/laureates/2010","DOMAIN-KEYWORD"],
             ["nobodycanstop.us","DOMAIN-SUFFIX"],
+            ["nodeseek.com","DOMAIN-SUFFIX"],
             ["nodesnoop.com","DOMAIN-SUFFIX"],
             ["nofile.io","DOMAIN-SUFFIX"],
             ["nokogiri.org","DOMAIN-SUFFIX"],
@@ -5687,6 +5687,7 @@ var rules = [
             ["oyghan.com/wps","DOMAIN-KEYWORD"],
             ["ozvoice.org","DOMAIN-SUFFIX"],
             ["pachosting.com","DOMAIN-SUFFIX"],
+            ["pacom.mil","DOMAIN-SUFFIX"],
             ["pacopacomama.com","DOMAIN-SUFFIX"],
             ["page.link","DOMAIN-SUFFIX"],
             ["page2rss.com","DOMAIN-KEYWORD"],
@@ -6810,7 +6811,6 @@ var rules = [
             ["usercontent.goog","DOMAIN-SUFFIX"],
             ["usfk.mil","DOMAIN-SUFFIX"],
             ["ushuarencity.echainhost.com","DOMAIN-KEYWORD"],
-            ["usinfo.state.gov","DOMAIN-KEYWORD"],
             ["usma.edu","DOMAIN-SUFFIX"],
             ["usmc.mil","DOMAIN-SUFFIX"],
             ["usmgtcg.ning.com/forum","DOMAIN-KEYWORD"],
