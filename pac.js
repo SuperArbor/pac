@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-02-17 19:43:08
- * GFWList Last-Modified: 2025-02-07 04:07:23
+ * Generated: 2025-02-18 19:43:13
+ * GFWList Last-Modified: 2025-02-18 06:24:21
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1934,7 +1934,6 @@ var rules = [
             [".stormmediagroup.com","DOMAIN-KEYWORD"],
             [".strikingly.com","DOMAIN-KEYWORD"],
             [".strongwindpress.com","DOMAIN-KEYWORD"],
-            [".student.tw/db","DOMAIN-KEYWORD"],
             [".successfn.com","DOMAIN-KEYWORD"],
             [".sugarsync.com","DOMAIN-KEYWORD"],
             [".sugobbs.com","DOMAIN-KEYWORD"],
@@ -2502,6 +2501,7 @@ var rules = [
             ["56cun04.jigsy.com","DOMAIN-KEYWORD"],
             ["5aimiku.com","DOMAIN-KEYWORD"],
             ["5i01.com","DOMAIN-KEYWORD"],
+            ["611study.icu","DOMAIN-SUFFIX"],
             ["63i.com","DOMAIN-SUFFIX"],
             ["64tianwang.com","DOMAIN-KEYWORD"],
             ["64wiki.com","DOMAIN-KEYWORD"],
@@ -5484,6 +5484,7 @@ var rules = [
             ["news.singtao.ca","DOMAIN-KEYWORD"],
             ["news.tvbs.com.tw","DOMAIN-KEYWORD"],
             ["news.yahoo.com/china-blocks-bbc","DOMAIN-KEYWORD"],
+            ["news1.kr","DOMAIN-SUFFIX"],
             ["news100.com.tw","DOMAIN-KEYWORD"],
             ["newsancai.com","DOMAIN-SUFFIX"],
             ["newsblur.com","DOMAIN-SUFFIX"],
@@ -5759,6 +5760,7 @@ var rules = [
             ["picasaweb.com","DOMAIN-SUFFIX"],
             ["picturedip.com","DOMAIN-SUFFIX"],
             ["picturesocial.com","DOMAIN-KEYWORD"],
+            ["picuki.com","DOMAIN-SUFFIX"],
             ["pigav.com","DOMAIN-SUFFIX"],
             ["pimg.tw","DOMAIN-SUFFIX"],
             ["pin-cong.com","DOMAIN-SUFFIX"],
