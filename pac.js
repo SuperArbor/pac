@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-02-21 19:43:07
- * GFWList Last-Modified: 2025-02-18 06:24:21
+ * Generated: 2025-02-22 19:43:25
+ * GFWList Last-Modified: 2025-02-22 16:48:53
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3210,6 +3210,7 @@ var rules = [
             ["cochina.org","DOMAIN-SUFFIX"],
             ["codeshare.io","DOMAIN-SUFFIX"],
             ["codeskulptor.org","DOMAIN-SUFFIX"],
+            ["cofacts.tw","DOMAIN-SUFFIX"],
             ["coin2co.in","DOMAIN-SUFFIX"],
             ["coinbase.com","DOMAIN-SUFFIX"],
             ["coinbene.com","DOMAIN-SUFFIX"],
@@ -4197,6 +4198,7 @@ var rules = [
             ["greenpeace.org","DOMAIN-SUFFIX"],
             ["greenvpn.net","DOMAIN-SUFFIX"],
             ["grindr.com","DOMAIN-SUFFIX"],
+            ["grok.com","DOMAIN-SUFFIX"],
             ["grotty-monday.com","DOMAIN-SUFFIX"],
             ["ground.news","DOMAIN-SUFFIX"],
             ["grow.google","DOMAIN-SUFFIX"],
