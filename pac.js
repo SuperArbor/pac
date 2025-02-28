@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-02-27 19:43:16
- * GFWList Last-Modified: 2025-02-22 16:48:53
+ * Generated: 2025-02-28 19:43:18
+ * GFWList Last-Modified: 2025-02-28 03:29:48
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2952,6 +2952,7 @@ var rules = [
             ["brucewang.net","DOMAIN-KEYWORD"],
             ["brutaltgp.com","DOMAIN-SUFFIX"],
             ["bsky.app","DOMAIN-SUFFIX"],
+            ["bsky.network","DOMAIN-SUFFIX"],
             ["bsky.social","DOMAIN-SUFFIX"],
             ["bt95.com","DOMAIN-SUFFIX"],
             ["btc98.com","DOMAIN-SUFFIX"],
