@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-03-06 19:43:04
- * GFWList Last-Modified: 2025-03-05 10:44:39
+ * Generated: 2025-03-07 19:43:03
+ * GFWList Last-Modified: 2025-03-07 10:20:58
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -766,6 +766,7 @@ var rules = [
             [".etadult.com","DOMAIN-KEYWORD"],
             [".etowns.net","DOMAIN-KEYWORD"],
             [".etowns.org","DOMAIN-KEYWORD"],
+            [".ettoday.net","DOMAIN-KEYWORD"],
             [".eucasino.com","DOMAIN-KEYWORD"],
             [".eulam.com","DOMAIN-KEYWORD"],
             [".eurekavpt.com","DOMAIN-KEYWORD"],
@@ -864,6 +865,7 @@ var rules = [
             [".freetcp.com","DOMAIN-KEYWORD"],
             [".freetibet.net","DOMAIN-KEYWORD"],
             [".freetibetanheroes.org","DOMAIN-KEYWORD"],
+            [".freetls.fastly.net","DOMAIN-KEYWORD"],
             [".freeviewmovies.com","DOMAIN-KEYWORD"],
             [".freevpn.me","DOMAIN-KEYWORD"],
             [".freewebs.com","DOMAIN-KEYWORD"],
@@ -942,6 +944,7 @@ var rules = [
             [".github.io","DOMAIN-KEYWORD"],
             [".gizlen.net","DOMAIN-KEYWORD"],
             [".gjczz.com","DOMAIN-KEYWORD"],
+            [".global.ssl.fastly.net","DOMAIN-KEYWORD"],
             [".globaltm.org","DOMAIN-KEYWORD"],
             [".globalvoicesonline.org","DOMAIN-KEYWORD"],
             [".glock.com","DOMAIN-KEYWORD"],
@@ -2502,6 +2505,7 @@ var rules = [
             ["64wiki.com","DOMAIN-KEYWORD"],
             ["666kb.com","DOMAIN-KEYWORD"],
             ["666pool.cn","DOMAIN-SUFFIX"],
+            ["69shuba.cx","DOMAIN-SUFFIX"],
             ["6do.news","DOMAIN-SUFFIX"],
             ["6do.world","DOMAIN-SUFFIX"],
             ["6park.com","DOMAIN-SUFFIX"],
@@ -3590,7 +3594,6 @@ var rules = [
             ["etizer.org","DOMAIN-SUFFIX"],
             ["etokki.com","DOMAIN-SUFFIX"],
             ["etsy.com","DOMAIN-SUFFIX"],
-            ["ettoday.net","DOMAIN-SUFFIX"],
             ["etvonline.hk","DOMAIN-KEYWORD"],
             ["eurekavpt.com","DOMAIN-SUFFIX"],
             ["euronews.com","DOMAIN-SUFFIX"],
@@ -3934,6 +3937,7 @@ var rules = [
             ["github.blog","DOMAIN-SUFFIX"],
             ["github.com","DOMAIN-SUFFIX"],
             ["github.io","DOMAIN-SUFFIX"],
+            ["githubassets.com","DOMAIN-SUFFIX"],
             ["githubcopilot.com","DOMAIN-SUFFIX"],
             ["githubusercontent.com","DOMAIN-SUFFIX"],
             ["gizlen.net","DOMAIN-SUFFIX"],
@@ -5909,6 +5913,7 @@ var rules = [
             ["politicalchina.org","DOMAIN-SUFFIX"],
             ["politicalconsultation.org","DOMAIN-SUFFIX"],
             ["poloniex.com","DOMAIN-SUFFIX"],
+            ["polymarket.com","DOMAIN-SUFFIX"],
             ["polymer-project.org","DOMAIN-SUFFIX"],
             ["polymerhk.com","DOMAIN-SUFFIX"],
             ["poolbinance.com","DOMAIN-SUFFIX"],
@@ -7192,7 +7197,6 @@ var rules = [
             ["wikiversity.org","DOMAIN-SUFFIX"],
             ["wikivoyage.org","DOMAIN-SUFFIX"],
             ["wikiwand.com","DOMAIN-SUFFIX"],
-            ["wikiwiki.jp","DOMAIN-SUFFIX"],
             ["wiktionary.org","DOMAIN-SUFFIX"],
             ["wildammo.com","DOMAIN-KEYWORD"],
             ["williamhill.com","DOMAIN-SUFFIX"],
