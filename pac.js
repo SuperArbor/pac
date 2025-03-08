@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-03-07 19:43:03
- * GFWList Last-Modified: 2025-03-07 10:20:58
+ * Generated: 2025-03-08 19:43:19
+ * GFWList Last-Modified: 2025-03-08 03:02:43
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -61,6 +61,7 @@ var rules = [
             ["df.gov.tw","DOMAIN-SUFFIX"],
             ["eastcoast-nsa.gov.tw","DOMAIN-SUFFIX"],
             ["erv-nsa.gov.tw","DOMAIN-SUFFIX"],
+            ["ettoday.net","DOMAIN-SUFFIX"],
             ["gettyimages.cn","DOMAIN-SUFFIX"],
             ["gettyimages.com","DOMAIN-SUFFIX"],
             ["grb.gov.tw","DOMAIN-SUFFIX"],
@@ -5480,6 +5481,7 @@ var rules = [
             ["multiply.com","DOMAIN-SUFFIX"],
             ["multiproxy.org","DOMAIN-KEYWORD"],
             ["multiupload.com","DOMAIN-KEYWORD"],
+            ["musixmatch.com","DOMAIN-SUFFIX"],
             ["muzi.com","DOMAIN-SUFFIX"],
             ["muzi.net","DOMAIN-SUFFIX"],
             ["muzu.tv","DOMAIN-SUFFIX"],
@@ -6875,6 +6877,7 @@ var rules = [
             ["twitturly.com","DOMAIN-SUFFIX"],
             ["twitvid.com","DOMAIN-SUFFIX"],
             ["twiyia.com","DOMAIN-KEYWORD"],
+            ["twkan.com","DOMAIN-SUFFIX"],
             ["twreporter.org","DOMAIN-SUFFIX"],
             ["twskype.com","DOMAIN-KEYWORD"],
             ["twstar.net","DOMAIN-SUFFIX"],
