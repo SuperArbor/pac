@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-03-12 19:43:06
- * GFWList Last-Modified: 2025-03-10 13:59:17
+ * Generated: 2025-03-13 19:43:12
+ * GFWList Last-Modified: 2025-03-13 11:15:09
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2471,6 +2471,7 @@ var rules = [
             ["2017.hk","DOMAIN-SUFFIX"],
             ["2021hkcharter.com","DOMAIN-SUFFIX"],
             ["2047.name","DOMAIN-SUFFIX"],
+            ["2047.one","DOMAIN-SUFFIX"],
             ["2049bbs.xyz","DOMAIN-SUFFIX"],
             ["21andy.com/blog","DOMAIN-KEYWORD"],
             ["21sextury.com","DOMAIN-KEYWORD"],
@@ -2807,6 +2808,7 @@ var rules = [
             ["bbtoystore.com","DOMAIN-KEYWORD"],
             ["bcex.ca","DOMAIN-SUFFIX"],
             ["bdsmvideos.net","DOMAIN-KEYWORD"],
+            ["bearteach.com","DOMAIN-SUFFIX"],
             ["bebo.com","DOMAIN-SUFFIX"],
             ["beeg.com","DOMAIN-SUFFIX"],
             ["beepool.com","DOMAIN-SUFFIX"],
@@ -3017,6 +3019,8 @@ var rules = [
             ["c3pool.com","DOMAIN-SUFFIX"],
             ["cableav.tv","DOMAIN-SUFFIX"],
             ["cablegatesearch.net","DOMAIN-SUFFIX"],
+            ["cachefly.com","DOMAIN-SUFFIX"],
+            ["cachefly.net","DOMAIN-SUFFIX"],
             ["cactusvpn.com","DOMAIN-SUFFIX"],
             ["caijinglengyan.com","DOMAIN-SUFFIX"],
             ["calebelston.com","DOMAIN-SUFFIX"],
@@ -3259,7 +3263,6 @@ var rules = [
             ["com.ru","DOMAIN-SUFFIX"],
             ["com.uk","DOMAIN-SUFFIX"],
             ["comefromchina.com","DOMAIN-SUFFIX"],
-            ["comfastgpt.run","DOMAIN-SUFFIX"],
             ["comico.tw","DOMAIN-SUFFIX"],
             ["commandarms.com","DOMAIN-KEYWORD"],
             ["comments.app","DOMAIN-SUFFIX"],
@@ -3319,6 +3322,7 @@ var rules = [
             ["curvefish.com","DOMAIN-SUFFIX"],
             ["cusp.hk","DOMAIN-SUFFIX"],
             ["cusu.hk","DOMAIN-SUFFIX"],
+            ["cutout.pro","DOMAIN-SUFFIX"],
             ["cutscenes.net","DOMAIN-SUFFIX"],
             ["cw.com.tw","DOMAIN-SUFFIX"],
             ["cwb.gov.tw","DOMAIN-SUFFIX"],
@@ -3638,6 +3642,7 @@ var rules = [
             ["facebookquotes4u.com","DOMAIN-SUFFIX"],
             ["faceless.me","DOMAIN-SUFFIX"],
             ["facesofnyfw.com","DOMAIN-SUFFIX"],
+            ["factchecklab.org","DOMAIN-SUFFIX"],
             ["factpedia.org","DOMAIN-SUFFIX"],
             ["fail.hk","DOMAIN-KEYWORD"],
             ["faiththedog.info","DOMAIN-SUFFIX"],
@@ -3836,6 +3841,7 @@ var rules = [
             ["frootvpn.com","DOMAIN-SUFFIX"],
             ["froth.zone","DOMAIN-SUFFIX"],
             ["fscked.org","DOMAIN-SUFFIX"],
+            ["ft.com","DOMAIN-SUFFIX"],
             ["ftchinese.com","DOMAIN-SUFFIX"],
             ["ftv.com.tw","DOMAIN-SUFFIX"],
             ["ftvnews.com.tw","DOMAIN-SUFFIX"],
@@ -3893,6 +3899,7 @@ var rules = [
             ["gclubs.com","DOMAIN-SUFFIX"],
             ["gcmasia.com","DOMAIN-SUFFIX"],
             ["gcr.io","DOMAIN-SUFFIX"],
+            ["gdaily.org","DOMAIN-SUFFIX"],
             ["gdzf.org","DOMAIN-KEYWORD"],
             ["geek-art.net","DOMAIN-SUFFIX"],
             ["geekerhome.com/2010/03/xixiang-project-cross-gfw","DOMAIN-KEYWORD"],
@@ -3915,6 +3922,7 @@ var rules = [
             ["getmalus.com","DOMAIN-SUFFIX"],
             ["getmdl.io","DOMAIN-SUFFIX"],
             ["getoutline.org","DOMAIN-SUFFIX"],
+            ["getsession.org","DOMAIN-SUFFIX"],
             ["getsync.com","DOMAIN-SUFFIX"],
             ["gettr.com","DOMAIN-SUFFIX"],
             ["getuploader.com","DOMAIN-SUFFIX"],
@@ -5557,6 +5565,7 @@ var rules = [
             ["netflav.com","DOMAIN-SUFFIX"],
             ["netflix.com","DOMAIN-SUFFIX"],
             ["netflix.net","DOMAIN-SUFFIX"],
+            ["netlify.app","DOMAIN-SUFFIX"],
             ["netme.cc","DOMAIN-SUFFIX"],
             ["netsarang.com","DOMAIN-SUFFIX"],
             ["netsneak.com","DOMAIN-KEYWORD"],
@@ -6358,6 +6367,7 @@ var rules = [
             ["soulcaliburhentai.net","DOMAIN-SUFFIX"],
             ["soundcloud.com","DOMAIN-SUFFIX"],
             ["soundofhope.org","DOMAIN-SUFFIX"],
+            ["soundon.fm","DOMAIN-SUFFIX"],
             ["soup.io","DOMAIN-SUFFIX"],
             ["soupofmedia.com","DOMAIN-SUFFIX"],
             ["sourceforge.net","DOMAIN-SUFFIX"],
@@ -6573,6 +6583,7 @@ var rules = [
             ["tfc-taiwan.org.tw","DOMAIN-SUFFIX"],
             ["tfhub.dev","DOMAIN-SUFFIX"],
             ["tfiflve.com","DOMAIN-SUFFIX"],
+            ["tg-me.com","DOMAIN-SUFFIX"],
             ["thb.gov.tw","DOMAIN-SUFFIX"],
             ["theatlantic.com","DOMAIN-SUFFIX"],
             ["theatrum-belli.com","DOMAIN-SUFFIX"],
@@ -6595,7 +6606,6 @@ var rules = [
             ["thehindu.com","DOMAIN-SUFFIX"],
             ["thehun.net","DOMAIN-SUFFIX"],
             ["theinitium.com","DOMAIN-SUFFIX"],
-            ["themoviedb.org","DOMAIN-SUFFIX"],
             ["thenewslens.com","DOMAIN-SUFFIX"],
             ["thepiratebay.org","DOMAIN-SUFFIX"],
             ["theporndude.com","DOMAIN-SUFFIX"],
@@ -7284,6 +7294,7 @@ var rules = [
             ["x-art.com","DOMAIN-SUFFIX"],
             ["x-berry.com","DOMAIN-SUFFIX"],
             ["x-wall.org","DOMAIN-SUFFIX"],
+            ["x.ai","DOMAIN-SUFFIX"],
             ["x.co","DOMAIN-SUFFIX"],
             ["x.com","DOMAIN-SUFFIX"],
             ["x.company","DOMAIN-SUFFIX"],
