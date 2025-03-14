@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: 2025-03-13 19:43:12
- * GFWList Last-Modified: 2025-03-13 11:15:09
+ * Generated: 2025-03-14 19:43:03
+ * GFWList Last-Modified: 2025-03-14 09:50:30
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3690,7 +3690,6 @@ var rules = [
             ["fapdu.com","DOMAIN-KEYWORD"],
             ["faproxy.com","DOMAIN-KEYWORD"],
             ["fastestvpn.com","DOMAIN-SUFFIX"],
-            ["fastgpt.run","DOMAIN-SUFFIX"],
             ["fastly.net","DOMAIN-SUFFIX"],
             ["fastpic.ru","DOMAIN-SUFFIX"],
             ["fastssh.com","DOMAIN-SUFFIX"],
