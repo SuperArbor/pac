@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: 2026-08-20 20:03:25
+ * Generated: 2026-08-20 20:16:42
  * GFWList Last-Modified: 2026-08-19 10:15:34
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -17,13 +17,25 @@ var rules = [
         ],
         [
             ["api.dler.io","DOMAIN-KEYWORD"],
+            ["api.live.net","DOMAIN-KEYWORD"],
+            ["apis.live.net","DOMAIN-KEYWORD"],
             ["beian.miit.gov.cn","DOMAIN-KEYWORD"],
+            ["docs.live.net","DOMAIN-KEYWORD"],
+            ["files.1drv.com","DOMAIN-KEYWORD"],
+            ["g.live.com","DOMAIN-KEYWORD"],
             ["githubusercontent.com","DOMAIN-KEYWORD"],
             ["libgen.is","DOMAIN-KEYWORD"],
             ["libgen.li","DOMAIN-KEYWORD"],
             ["linuxquestions.org","DOMAIN-KEYWORD"],
+            ["login.live.com","DOMAIN-KEYWORD"],
             ["mikanani.me","DOMAIN-KEYWORD"],
+            ["oauth.live.com","DOMAIN-KEYWORD"],
+            ["oneclient.sfx.ms","DOMAIN-KEYWORD"],
+            ["onedrive.live.com","DOMAIN-KEYWORD"],
             ["serverfault.com","DOMAIN-KEYWORD"],
+            ["skyapi.live.net","DOMAIN-KEYWORD"],
+            ["spoprod-a.akamaihd.net","DOMAIN-KEYWORD"],
+            ["storage.live.com","DOMAIN-KEYWORD"],
             ["sub.id9.cc","DOMAIN-KEYWORD"],
             ["sub.maoxiongnet.com","DOMAIN-KEYWORD"],
             ["sub.xeton.dev","DOMAIN-KEYWORD"],
