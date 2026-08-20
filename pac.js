@@ -1,11 +1,11 @@
 /**
  * --PACRULES--
- * Generated: 2026-08-20 23:09:27
+ * Generated: 2026-08-21 00:41:28
  * GFWList Last-Modified: 2026-08-19 10:15:34
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
-var reject = 'socks5 127.0.0.1:4444';
+var reject = 'http 127.0.0.1:4444';
 var direct = 'DIRECT'
 var proxy = 'socks5 127.0.0.1:1080';
 var rules = [
