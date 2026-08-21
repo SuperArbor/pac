@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Fri, 21 Aug 2026 06:01:31 +0800
- * GFWList Last-Modified: Wed, 19 Aug 2026 10:15:34 +0800
+ * Generated: Fri, 21 Aug 2026 22:44:51 +0800
+ * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -491,6 +491,7 @@ var rules = [
             ["breakgfw.com","DOMAIN-SUFFIX"],
             ["breakingtweets.com","DOMAIN-SUFFIX"],
             ["breakwall.net","DOMAIN-SUFFIX"],
+            ["briarproject.org","DOMAIN-SUFFIX"],
             ["brill.com","DOMAIN-SUFFIX"],
             ["brizzly.com","DOMAIN-SUFFIX"],
             ["broadpressinc.com","DOMAIN-SUFFIX"],
@@ -617,6 +618,7 @@ var rules = [
             ["character.ai","DOMAIN-SUFFIX"],
             ["chat.com","DOMAIN-SUFFIX"],
             ["chatgpt.com","DOMAIN-SUFFIX"],
+            ["chatgpt.site","DOMAIN-SUFFIX"],
             ["chatpdf.com","DOMAIN-SUFFIX"],
             ["chaturbate.com","DOMAIN-SUFFIX"],
             ["checkgfw.com","DOMAIN-SUFFIX"],
