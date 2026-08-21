@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Fri, 21 Aug 2026 06:01:36 +0800
- * GFWList Last-Modified: Wed, 19 Aug 2026 10:15:34 +0800
+ * Generated: Fri, 21 Aug 2026 22:44:58 +0800
+ * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1426,6 +1426,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?axureformac\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?azirevpn\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?boxun.*\.azurewebsites\.net(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?briarproject\.org(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bilinovel\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?boomplay\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bleepingcomputer\.com(?:[/:?]|$)",
@@ -1591,6 +1592,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?bvpn\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bwh1\.net(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bypasscensorship\.org(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?chatgpt\.site(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?cht\.com\.tw(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?cerebras\.ai(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?circle19\.org(?:[/:?]|$)",
