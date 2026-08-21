@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Sat, 22 Aug 2026 00:11:16 +0800
+ * Generated: Sat, 22 Aug 2026 01:00:43 +0800
  * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -23,9 +23,6 @@ var rules = [
             ["docs.live.net","DOMAIN-KEYWORD"],
             ["files.1drv.com","DOMAIN-KEYWORD"],
             ["g.live.com","DOMAIN-KEYWORD"],
-            ["githubusercontent.com","DOMAIN-KEYWORD"],
-            ["libgen.is","DOMAIN-KEYWORD"],
-            ["libgen.li","DOMAIN-KEYWORD"],
             ["linuxquestions.org","DOMAIN-KEYWORD"],
             ["login.live.com","DOMAIN-KEYWORD"],
             ["mikanani.me","DOMAIN-KEYWORD"],
