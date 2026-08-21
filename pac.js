@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Sat, 22 Aug 2026 01:50:00 +0800
+ * Generated: Sat, 22 Aug 2026 02:33:12 +0800
  * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -11,34 +11,8 @@ var proxy = 'socks5 127.0.0.1:1080';
 var rules = [
     [
         [],
-        [
-            ["alicdn.com","DOMAIN-SUFFIX"],
-            ["pushplus.plus","DOMAIN-SUFFIX"]
-        ],
-        [
-            ["api.dler.io","DOMAIN-KEYWORD"],
-            ["api.live.net","DOMAIN-KEYWORD"],
-            ["apis.live.net","DOMAIN-KEYWORD"],
-            ["beian.miit.gov.cn","DOMAIN-KEYWORD"],
-            ["docs.live.net","DOMAIN-KEYWORD"],
-            ["files.1drv.com","DOMAIN-KEYWORD"],
-            ["g.live.com","DOMAIN-KEYWORD"],
-            ["linuxquestions.org","DOMAIN-KEYWORD"],
-            ["login.live.com","DOMAIN-KEYWORD"],
-            ["mikanani.me","DOMAIN-KEYWORD"],
-            ["oauth.live.com","DOMAIN-KEYWORD"],
-            ["oneclient.sfx.ms","DOMAIN-KEYWORD"],
-            ["onedrive.live.com","DOMAIN-KEYWORD"],
-            ["serverfault.com","DOMAIN-KEYWORD"],
-            ["skyapi.live.net","DOMAIN-KEYWORD"],
-            ["spoprod-a.akamaihd.net","DOMAIN-KEYWORD"],
-            ["storage.live.com","DOMAIN-KEYWORD"],
-            ["sub.id9.cc","DOMAIN-KEYWORD"],
-            ["sub.maoxiongnet.com","DOMAIN-KEYWORD"],
-            ["sub.xeton.dev","DOMAIN-KEYWORD"],
-            ["superuser.com","DOMAIN-KEYWORD"],
-            ["ubuntuforums.org","DOMAIN-KEYWORD"]
-        ]
+        [],
+        []
     ],
     [
         [],
