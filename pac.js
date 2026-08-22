@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Sat, 22 Aug 2026 05:55:37 +0800
- * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
+ * Generated: Sun, 23 Aug 2026 04:49:18 +0800
+ * GFWList Last-Modified: Sat, 22 Aug 2026 14:17:41 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -27,7 +27,7 @@ var rules = [
             ["libgen","DOMAIN-SUFFIX"],
             ["linuxquestions.org","DOMAIN-SUFFIX"],
             ["login.live.com","DOMAIN-SUFFIX"],
-            ["m-team","DOMAIN-SUFFIX"],
+            ["m-team.cc","DOMAIN-SUFFIX"],
             ["mikanani.me","DOMAIN-SUFFIX"],
             ["oauth.live.com","DOMAIN-SUFFIX"],
             ["oneclient.sfx.ms","DOMAIN-SUFFIX"],
@@ -1708,6 +1708,7 @@ var rules = [
             ["himemix.com","DOMAIN-SUFFIX"],
             ["hindustantimes.com","DOMAIN-SUFFIX"],
             ["hinet.net","DOMAIN-SUFFIX"],
+            ["historylines.net","DOMAIN-SUFFIX"],
             ["hitbtc.com","DOMAIN-SUFFIX"],
             ["hive.blog","DOMAIN-SUFFIX"],
             ["hiveon.net","DOMAIN-SUFFIX"],
@@ -2292,6 +2293,7 @@ var rules = [
             ["kinmen.org.tw","DOMAIN-SUFFIX"],
             ["kinmen.travel","DOMAIN-SUFFIX"],
             ["kinokuniya.com","DOMAIN-SUFFIX"],
+            ["kiwix.org","DOMAIN-SUFFIX"],
             ["kk-whys.co.jp","DOMAIN-SUFFIX"],
             ["kkbox.com","DOMAIN-SUFFIX"],
             ["kknews.cc","DOMAIN-SUFFIX"],
@@ -2476,6 +2478,7 @@ var rules = [
             ["matters.town","DOMAIN-SUFFIX"],
             ["mattwilcox.net","DOMAIN-SUFFIX"],
             ["mcadforums.com","DOMAIN-SUFFIX"],
+            ["mceindex.com","DOMAIN-SUFFIX"],
             ["mcusercontent.com","DOMAIN-SUFFIX"],
             ["md-t.org","DOMAIN-SUFFIX"],
             ["me.me","DOMAIN-SUFFIX"],
@@ -3219,6 +3222,7 @@ var rules = [
             ["savetibet.org","DOMAIN-SUFFIX"],
             ["savetibetstore.org","DOMAIN-SUFFIX"],
             ["saveuighur.org","DOMAIN-SUFFIX"],
+            ["sb.sb","DOMAIN-SUFFIX"],
             ["schema.org","DOMAIN-SUFFIX"],
             ["schwab.co.uk","DOMAIN-SUFFIX"],
             ["schwab.com","DOMAIN-SUFFIX"],
