@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Sat, 22 Aug 2026 05:55:42 +0800
- * GFWList Last-Modified: Fri, 21 Aug 2026 10:55:00 +0800
+ * Generated: Sun, 23 Aug 2026 04:49:22 +0800
+ * GFWList Last-Modified: Sat, 22 Aug 2026 14:17:41 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2766,6 +2766,9 @@ var rules = [
             "^(?:https?://)?(?:www\.)?lzjscript\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?lzmtnews\.org(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?leonardo\.ai(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?historylines\.net(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?kiwix\.org(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?mceindex\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?mhwindow\.org(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?mas\.to(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?mjj\.today(?:[/:?]|$)",
@@ -3408,6 +3411,7 @@ var rules = [
             "\|http://rxhj\.net",
             "^(?:https?://)?(?:www\.)?raphael\.app(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?rule34\.us(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?sb\.sb(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sysub\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sider\.ai(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sinchew\.com\.my(?:[/:?]|$)",
