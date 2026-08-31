@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Sun, 23 Aug 2026 04:49:22 +0800
- * GFWList Last-Modified: Sat, 22 Aug 2026 14:17:41 +0800
+ * Generated: Mon, 31 Aug 2026 22:20:42 +0800
+ * GFWList Last-Modified: Sun, 30 Aug 2026 22:57:02 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -2187,6 +2187,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?fw\.cm(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?fxcm-chinese\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?f95zone\.to(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?getmonero\.org(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?gate\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?guangming\.com\.my(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?g\.ai(?:[/:?]|$)",
@@ -3004,6 +3005,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?co\.ng\.mil(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?nga\.mil(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?nhentai\.net(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?nicoseiga\.jp(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?nicovideo\.jp(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?ninjaproxy\.ninja(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?niusnews\.com(?:[/:?]|$)",
@@ -3411,6 +3413,7 @@ var rules = [
             "\|http://rxhj\.net",
             "^(?:https?://)?(?:www\.)?raphael\.app(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?rule34\.us(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?api\.shuaiapi\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sb\.sb(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sysub\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?sider\.ai(?:[/:?]|$)",
@@ -4096,6 +4099,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?vrchat\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?vrporn\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?vtunnel\.com(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?write\.as(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?windy\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?washingtontimes\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?worldjournal\.com(?:[/:?]|$)",
@@ -4235,6 +4239,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?wujieliulan\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?wuw\.red(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?wwitv\.com(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?x86\.fr(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?xuan\.com\.my(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?xdaforums\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?xcancel\.com(?:[/:?]|$)",
