@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Sun, 23 Aug 2026 04:49:18 +0800
- * GFWList Last-Modified: Sat, 22 Aug 2026 14:17:41 +0800
+ * Generated: Mon, 31 Aug 2026 22:20:36 +0800
+ * GFWList Last-Modified: Sun, 30 Aug 2026 22:57:02 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -20,6 +20,7 @@ var rules = [
             ["api.dler.io","DOMAIN-SUFFIX"],
             ["api.live.net","DOMAIN-SUFFIX"],
             ["apis.live.net","DOMAIN-SUFFIX"],
+            ["asmrgay.com","DOMAIN-SUFFIX"],
             ["beian.miit.gov.cn","DOMAIN-SUFFIX"],
             ["docs.live.net","DOMAIN-SUFFIX"],
             ["files.1drv.com","DOMAIN-SUFFIX"],
@@ -1300,6 +1301,7 @@ var rules = [
             ["getlantern.org","DOMAIN-SUFFIX"],
             ["getmalus.com","DOMAIN-SUFFIX"],
             ["getmdl.io","DOMAIN-SUFFIX"],
+            ["getmonero.org","DOMAIN-SUFFIX"],
             ["getoutline.org","DOMAIN-SUFFIX"],
             ["getsession.org","DOMAIN-SUFFIX"],
             ["getsync.com","DOMAIN-SUFFIX"],
@@ -2719,6 +2721,7 @@ var rules = [
             ["nga.mil","DOMAIN-SUFFIX"],
             ["nhentai.net","DOMAIN-SUFFIX"],
             ["nic.gov","DOMAIN-SUFFIX"],
+            ["nicoseiga.jp","DOMAIN-SUFFIX"],
             ["nicovideo.jp","DOMAIN-SUFFIX"],
             ["nightswatch.top","DOMAIN-SUFFIX"],
             ["nike.com","DOMAIN-SUFFIX"],
@@ -3287,6 +3290,7 @@ var rules = [
             ["shooshtime.com","DOMAIN-SUFFIX"],
             ["shopee.tw","DOMAIN-SUFFIX"],
             ["showwe.tw","DOMAIN-SUFFIX"],
+            ["shuaiapi.com","DOMAIN-SUFFIX"],
             ["shutterstock.com","DOMAIN-SUFFIX"],
             ["shwchurch.org","DOMAIN-SUFFIX"],
             ["sidelinesnews.com","DOMAIN-SUFFIX"],
@@ -4105,6 +4109,7 @@ var rules = [
             ["wp.com","DOMAIN-SUFFIX"],
             ["wplace.live","DOMAIN-SUFFIX"],
             ["wpoforum.com","DOMAIN-SUFFIX"],
+            ["write.as","DOMAIN-SUFFIX"],
             ["writesonic.com","DOMAIN-SUFFIX"],
             ["wsj.com","DOMAIN-SUFFIX"],
             ["wsj.net","DOMAIN-SUFFIX"],
@@ -4126,6 +4131,7 @@ var rules = [
             ["x.com","DOMAIN-SUFFIX"],
             ["x.company","DOMAIN-SUFFIX"],
             ["x3guide.com","DOMAIN-SUFFIX"],
+            ["x86.fr","DOMAIN-SUFFIX"],
             ["xbabe.com","DOMAIN-SUFFIX"],
             ["xbookcn.com","DOMAIN-SUFFIX"],
             ["xbtce.com","DOMAIN-SUFFIX"],
