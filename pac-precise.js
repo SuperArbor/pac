@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Mon, 31 Aug 2026 22:20:42 +0800
- * GFWList Last-Modified: Sun, 30 Aug 2026 22:57:02 +0800
+ * Generated: Fri, 04 Sep 2026 19:39:23 +0800
+ * GFWList Last-Modified: Fri, 04 Sep 2026 18:44:38 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1592,6 +1592,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?bvpn\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bwh1\.net(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?bypasscensorship\.org(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?ctee\.com\.tw(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?chatgpt\.site(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?cht\.com\.tw(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?cerebras\.ai(?:[/:?]|$)",
@@ -2325,6 +2326,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?gumroad\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?gunsamerica\.com(?:[/:?]|$)",
             "\|http://gvlib\.com",
+            "^(?:https?://)?(?:www\.)?hkej\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?hkong\.hk(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?hive\.blog(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?v2\.hysteria\.network(?:[/:?]|$)",
@@ -2678,6 +2680,7 @@ var rules = [
             "^(?:https?://)?(?:www\.)?kxsw\.life(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?kzaobao\.com(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?kzeng\.info(?:[/:?]|$)",
+            "^(?:https?://)?(?:www\.)?linux\.sb(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?level-plus\.net(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?libgen\.is(?:[/:?]|$)",
             "^(?:https?://)?(?:www\.)?lemonde\.fr(?:[/:?]|$)",
