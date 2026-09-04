@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Mon, 31 Aug 2026 22:20:36 +0800
- * GFWList Last-Modified: Sun, 30 Aug 2026 22:57:02 +0800
+ * Generated: Fri, 04 Sep 2026 19:39:19 +0800
+ * GFWList Last-Modified: Fri, 04 Sep 2026 18:44:38 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -795,6 +795,7 @@ var rules = [
             ["csuchen.de","DOMAIN-SUFFIX"],
             ["csw.org.uk","DOMAIN-SUFFIX"],
             ["ct.org.tw","DOMAIN-SUFFIX"],
+            ["ctee.com.tw","DOMAIN-SUFFIX"],
             ["ctinets.com","DOMAIN-SUFFIX"],
             ["ctinews.com","DOMAIN-SUFFIX"],
             ["ctinsider.com","DOMAIN-SUFFIX"],
@@ -1720,6 +1721,7 @@ var rules = [
             ["hkcnews.com","DOMAIN-SUFFIX"],
             ["hkcoc.com","DOMAIN-SUFFIX"],
             ["hkdc.us","DOMAIN-SUFFIX"],
+            ["hkej.com","DOMAIN-SUFFIX"],
             ["hket.com","DOMAIN-SUFFIX"],
             ["hkfaa.com","DOMAIN-SUFFIX"],
             ["hkgalden.com","DOMAIN-SUFFIX"],
@@ -2384,6 +2386,7 @@ var rules = [
             ["linktr.ee","DOMAIN-SUFFIX"],
             ["linux.do","DOMAIN-SUFFIX"],
             ["linux.org.hk","DOMAIN-SUFFIX"],
+            ["linux.sb","DOMAIN-SUFFIX"],
             ["liquiditytp.com","DOMAIN-SUFFIX"],
             ["liquidvpn.com","DOMAIN-SUFFIX"],
             ["list-manage.com","DOMAIN-SUFFIX"],
