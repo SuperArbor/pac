@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Tue, 06 Oct 2026 21:15:25 +0800
+ * Generated: Tue, 06 Oct 2026 21:19:14 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -17,6 +17,16 @@ var rules = [
             ["alicdn.com","DOMAIN-SUFFIX"]
         ],
         [
+            ["copilot.com","DOMAIN-SUFFIX"],
+            ["copilot.microsoft.com","DOMAIN-SUFFIX"],
+            ["cursor.com","DOMAIN-SUFFIX"],
+            ["cursor.sh","DOMAIN-SUFFIX"],
+            ["cursor-cdn.com","DOMAIN-SUFFIX"],
+            ["cursorapi.com","DOMAIN-SUFFIX"],
+            ["cursorvm.com","DOMAIN-SUFFIX"],
+            ["origin.cursor.com","DOMAIN-SUFFIX"],
+            ["accounts.spacex.ai","DOMAIN-SUFFIX"],
+            ["accounts.x.ai","DOMAIN-SUFFIX"],
             ["libgen","DOMAIN-KEYWORD"],
             ["sub.id9.cc","DOMAIN-SUFFIX"],
             ["sub.xeton.dev","DOMAIN-SUFFIX"],
