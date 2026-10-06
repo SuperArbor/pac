@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Tue, 06 Oct 2026 21:15:28 +0800
+ * Generated: Tue, 06 Oct 2026 21:19:17 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -17,6 +17,16 @@ var rules = [
             ".*\\.alicdn\\.com"
         ],
         [
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?copilot\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?copilot\\.microsoft\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cursor\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cursor\\.sh",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cursor-cdn\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cursorapi\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cursorvm\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?origin\\.cursor\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?accounts\\.spacex\\.ai",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?accounts\\.x\\.ai",
             "libgen\\..*",
             "sub\\.id9\\.cc",
             "sub\\.xeton\\.dev",
