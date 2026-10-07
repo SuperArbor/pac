@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Wed, 07 Oct 2026 01:37:34 +0800
+ * Generated: Wed, 07 Oct 2026 16:35:51 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -42,6 +42,18 @@ var rules = [
             ["do.dsp.mp.microsoft.com","DOMAIN-SUFFIX"],
             ["gateway.prod.island.powerapps.com","DOMAIN-SUFFIX"],
             ["assets.msn.com","DOMAIN-SUFFIX"],
+            ["onedrive.live.com","DOMAIN-SUFFIX"],
+            ["files.1drv.com","DOMAIN-SUFFIX"],
+            ["storage.live.com","DOMAIN-SUFFIX"],
+            ["login.live.com","DOMAIN-SUFFIX"],
+            ["oauth.live.com","DOMAIN-SUFFIX"],
+            ["api.live.net","DOMAIN-SUFFIX"],
+            ["apis.live.net","DOMAIN-SUFFIX"],
+            ["docs.live.net","DOMAIN-SUFFIX"],
+            ["skyapi.live.net","DOMAIN-SUFFIX"],
+            ["g.live.com","DOMAIN-SUFFIX"],
+            ["oneclient.sfx.ms","DOMAIN-SUFFIX"],
+            ["spoprod-a.akamaihd.net","DOMAIN-SUFFIX"],
             ["githubcopilot.com","DOMAIN-SUFFIX"],
             ["copilot-proxy.githubusercontent.com","DOMAIN-SUFFIX"],
             ["copilot-telemetry.githubusercontent.com","DOMAIN-SUFFIX"],
@@ -59,32 +71,21 @@ var rules = [
             ["grok.com","DOMAIN-SUFFIX"],
             ["grokusercontent.com","DOMAIN-SUFFIX"],
             ["grokipedia.com","DOMAIN-SUFFIX"],
-            ["libgen","DOMAIN-KEYWORD"],
-            ["sub.id9.cc","DOMAIN-SUFFIX"],
-            ["sub.xeton.dev","DOMAIN-SUFFIX"],
-            ["api.dler.io","DOMAIN-SUFFIX"],
-            ["sub.maoxiongnet.com","DOMAIN-SUFFIX"],
-            ["ubuntuforums.org","DOMAIN-SUFFIX"],
-            ["linuxquestions.org","DOMAIN-SUFFIX"],
-            ["mikanani.me","DOMAIN-SUFFIX"],
-            ["serverfault.com","DOMAIN-SUFFIX"],
-            ["superuser.com","DOMAIN-SUFFIX"],
-            ["beian.miit.gov.cn","DOMAIN-SUFFIX"],
-            ["m-team.cc","DOMAIN-SUFFIX"],
             ["asmrgay.com","DOMAIN-SUFFIX"],
+            ["asmrmoon.com","DOMAIN-SUFFIX"],
             ["z-library","DOMAIN-KEYWORD"],
-            ["onedrive.live.com","DOMAIN-SUFFIX"],
-            ["files.1drv.com","DOMAIN-SUFFIX"],
-            ["storage.live.com","DOMAIN-SUFFIX"],
-            ["login.live.com","DOMAIN-SUFFIX"],
-            ["oauth.live.com","DOMAIN-SUFFIX"],
-            ["api.live.net","DOMAIN-SUFFIX"],
-            ["apis.live.net","DOMAIN-SUFFIX"],
-            ["docs.live.net","DOMAIN-SUFFIX"],
-            ["skyapi.live.net","DOMAIN-SUFFIX"],
-            ["g.live.com","DOMAIN-SUFFIX"],
-            ["oneclient.sfx.ms","DOMAIN-SUFFIX"],
-            ["spoprod-a.akamaihd.net","DOMAIN-SUFFIX"]
+            ["libgen","DOMAIN-KEYWORD"],
+            ["pawchive","DOMAIN-KEYWORD"],
+            ["mikanani.me","DOMAIN-SUFFIX"],
+            ["m-team.cc","DOMAIN-SUFFIX"],
+            ["audiobookbay","DOMAIN-KEYWORD"],
+            ["mojie.live","DOMAIN-SUFFIX"],
+            ["linuxquestions.org","DOMAIN-SUFFIX"],
+            ["ubuntuforums.org","DOMAIN-SUFFIX"],
+            ["superuser.com","DOMAIN-SUFFIX"],
+            ["serverfault.com","DOMAIN-SUFFIX"],
+            ["api.dler.io","DOMAIN-SUFFIX"],
+            ["beian.miit.gov.cn","DOMAIN-SUFFIX"]
         ]
     ],
     [
