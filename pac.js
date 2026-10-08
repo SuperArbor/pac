@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Thu, 08 Oct 2026 20:01:51 +0800
+ * Generated: Fri, 09 Oct 2026 01:11:39 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -71,6 +71,7 @@ var rules = [
             ["grok.com","DOMAIN-SUFFIX"],
             ["grokusercontent.com","DOMAIN-SUFFIX"],
             ["grokipedia.com","DOMAIN-SUFFIX"],
+            ["zed.dev","DOMAIN-SUFFIX"],
             ["asmrgay.com","DOMAIN-SUFFIX"],
             ["asmrmoon.com","DOMAIN-SUFFIX"],
             ["z-library","DOMAIN-KEYWORD"],
