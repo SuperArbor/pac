@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Thu, 08 Oct 2026 19:21:31 +0800
+ * Generated: Thu, 08 Oct 2026 19:46:19 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -13,7 +13,6 @@ var rules = [
         [],
         [
             ["edu.cn","DOMAIN-SUFFIX"],
-            ["pushplus.plus","DOMAIN-SUFFIX"],
             ["alicdn.com","DOMAIN-SUFFIX"],
             ["myanonamouse.net","DOMAIN-SUFFIX"]
         ],
