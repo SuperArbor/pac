@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Fri, 09 Oct 2026 01:11:44 +0800
+ * Generated: Thu, 15 Oct 2026 12:54:37 +0800
  * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -72,7 +72,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?grokusercontent\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?grokipedia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zed\\.dev",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asmrgay\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asmrgay\\..*",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asmrmoon\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?z-library\\..*",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?libgen\\..*",
