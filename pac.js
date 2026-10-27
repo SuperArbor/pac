@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Thu, 15 Oct 2026 12:54:30 +0800
- * GFWList Last-Modified: Tue, 06 Oct 2026 14:17:00 +0800
+ * Generated: Tue, 27 Oct 2026 20:03:19 +0800
+ * GFWList Last-Modified: Sat, 24 Oct 2026 23:33:57 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -13,8 +13,7 @@ var rules = [
         [],
         [
             ["edu.cn","DOMAIN-SUFFIX"],
-            ["alicdn.com","DOMAIN-SUFFIX"],
-            ["myanonamouse.net","DOMAIN-SUFFIX"]
+            ["alicdn.com","DOMAIN-SUFFIX"]
         ],
         [
             ["copilot.com","DOMAIN-SUFFIX"],
@@ -80,6 +79,7 @@ var rules = [
             ["mikanani.me","DOMAIN-SUFFIX"],
             ["m-team.cc","DOMAIN-SUFFIX"],
             ["audiobookbay","DOMAIN-KEYWORD"],
+            ["myanonamouse.net","DOMAIN-SUFFIX"],
             ["mojie.live","DOMAIN-SUFFIX"],
             ["linuxquestions.org","DOMAIN-SUFFIX"],
             ["ubuntuforums.org","DOMAIN-SUFFIX"],
@@ -745,6 +745,8 @@ var rules = [
             ["cloudflare-dns.com","DOMAIN-SUFFIX"],
             ["dns.cloudflare.com","DOMAIN-SUFFIX"],
             ["dynu.com","DOMAIN-SUFFIX"],
+            ["meta.ai","DOMAIN-SUFFIX"],
+            ["metaaivm.com","DOMAIN-SUFFIX"],
             ["accountkit.com","DOMAIN-SUFFIX"],
             ["cdninstagram.com","DOMAIN-SUFFIX"],
             ["f8.com","DOMAIN-SUFFIX"],
@@ -1255,6 +1257,8 @@ var rules = [
             ["yahoo.com.tw","DOMAIN-SUFFIX"],
             ["yahoo.com.hk","DOMAIN-SUFFIX"],
             ["yahoo.com","DOMAIN-SUFFIX"],
+            ["123av.org","DOMAIN-SUFFIX"],
+            ["7x24hrs.com","DOMAIN-SUFFIX"],
             ["123av.me","DOMAIN-SUFFIX"],
             ["123av.com","DOMAIN-SUFFIX"],
             ["18comic.vip","DOMAIN-SUFFIX"],
@@ -1671,6 +1675,7 @@ var rules = [
             ["bvpn.com","DOMAIN-SUFFIX"],
             ["bwh1.net","DOMAIN-SUFFIX"],
             ["bypasscensorship.org","DOMAIN-SUFFIX"],
+            ["console.typesafe.ai","DOMAIN-SUFFIX"],
             ["cangku.moe","DOMAIN-SUFFIX"],
             ["chineseposters.net","DOMAIN-SUFFIX"],
             ["ctee.com.tw","DOMAIN-SUFFIX"],
@@ -2037,6 +2042,7 @@ var rules = [
             ["dwnews.net","DOMAIN-SUFFIX"],
             ["dynawebinc.com","DOMAIN-SUFFIX"],
             ["dysfz.cc","DOMAIN-SUFFIX"],
+            ["movie.eroterest.net","DOMAIN-SUFFIX"],
             ["edigest.hk","DOMAIN-SUFFIX"],
             ["app.element.io","DOMAIN-SUFFIX"],
             ["economist.com","DOMAIN-SUFFIX"],
@@ -2668,6 +2674,7 @@ var rules = [
             ["ixquick.com","DOMAIN-SUFFIX"],
             ["iyouport.com","DOMAIN-SUFFIX"],
             ["iyouport.org","DOMAIN-SUFFIX"],
+            ["ga.jspm.io","DOMAIN-SUFFIX"],
             ["javchu.com","DOMAIN-SUFFIX"],
             ["jkforum.net","DOMAIN-SUFFIX"],
             ["javfree.me","DOMAIN-SUFFIX"],
@@ -2718,6 +2725,7 @@ var rules = [
             ["justmysocks1.net","DOMAIN-SUFFIX"],
             ["juziyue.com","DOMAIN-SUFFIX"],
             ["cdn.jwplayer.com","DOMAIN-SUFFIX"],
+            ["kimootoko.net","DOMAIN-SUFFIX"],
             ["kards.com","DOMAIN-SUFFIX"],
             ["kfor.com","DOMAIN-SUFFIX"],
             ["kathmandupost.com","DOMAIN-SUFFIX"],
@@ -2861,6 +2869,7 @@ var rules = [
             ["lzjscript.com","DOMAIN-SUFFIX"],
             ["lzmtnews.org","DOMAIN-SUFFIX"],
             ["leonardo.ai","DOMAIN-SUFFIX"],
+            ["minkch.com","DOMAIN-SUFFIX"],
             ["matichon.co.th","DOMAIN-SUFFIX"],
             ["moeli-desu.com","DOMAIN-SUFFIX"],
             ["muse.ai","DOMAIN-SUFFIX"],
@@ -3031,6 +3040,9 @@ var rules = [
             ["myparagliding.com","DOMAIN-SUFFIX"],
             ["mypopescu.com","DOMAIN-SUFFIX"],
             ["myspacecdn.com","DOMAIN-SUFFIX"],
+            ["njavtv.com","DOMAIN-SUFFIX"],
+            ["njav.tv","DOMAIN-SUFFIX"],
+            ["njav.com","DOMAIN-SUFFIX"],
             ["nationthailand.com","DOMAIN-SUFFIX"],
             ["note.com","DOMAIN-SUFFIX"],
             ["nthlink.com","DOMAIN-SUFFIX"],
@@ -3214,6 +3226,7 @@ var rules = [
             ["www.oxid.it","DOMAIN"],
             ["ow.ly","DOMAIN-SUFFIX"],
             ["ozvoice.org","DOMAIN-SUFFIX"],
+            ["po-kaki-to.com","DOMAIN-SUFFIX"],
             ["perma.cc","DOMAIN-SUFFIX"],
             ["pcgamesn.com","DOMAIN-SUFFIX"],
             ["penguin.com.au","DOMAIN-SUFFIX"],
@@ -4450,6 +4463,7 @@ var rules = [
             ["yyjlymb.xyz","DOMAIN-SUFFIX"],
             ["yysub.net","DOMAIN-SUFFIX"],
             ["yzzk.com","DOMAIN-SUFFIX"],
+            ["zozovideo.com","DOMAIN-SUFFIX"],
             ["zenmux.ai","DOMAIN-SUFFIX"],
             ["zhangzhehan.net","DOMAIN-SUFFIX"],
             ["zaochenbao.com","DOMAIN-SUFFIX"],
