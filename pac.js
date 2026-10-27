@@ -1,6 +1,6 @@
 /**
  * --PACRULES--
- * Generated: Tue, 27 Oct 2026 20:03:19 +0800
+ * Generated: Wed, 28 Oct 2026 01:04:07 +0800
  * GFWList Last-Modified: Sat, 24 Oct 2026 23:33:57 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
@@ -72,14 +72,14 @@ var rules = [
             ["grokipedia.com","DOMAIN-SUFFIX"],
             ["zed.dev","DOMAIN-SUFFIX"],
             ["asmrgay","DOMAIN-KEYWORD"],
-            ["asmrmoon.com","DOMAIN-SUFFIX"],
+            ["asmrmoon","DOMAIN-KEYWORD"],
             ["z-library","DOMAIN-KEYWORD"],
             ["libgen","DOMAIN-KEYWORD"],
             ["pawchive","DOMAIN-KEYWORD"],
             ["mikanani.me","DOMAIN-SUFFIX"],
-            ["m-team.cc","DOMAIN-SUFFIX"],
+            ["m-team","DOMAIN-KEYWORD"],
             ["audiobookbay","DOMAIN-KEYWORD"],
-            ["myanonamouse.net","DOMAIN-SUFFIX"],
+            ["myanonamouse","DOMAIN-KEYWORD"],
             ["mojie.live","DOMAIN-SUFFIX"],
             ["linuxquestions.org","DOMAIN-SUFFIX"],
             ["ubuntuforums.org","DOMAIN-SUFFIX"],
