@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Thu, 29 Oct 2026 20:11:15 +0800
- * GFWList Last-Modified: Sat, 24 Oct 2026 23:33:57 +0800
+ * Generated: Wed, 04 Nov 2026 19:14:03 +0000
+ * GFWList Last-Modified: Tue, 03 Nov 2026 11:32:08 +0000
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -146,6 +146,7 @@ var rules = [
             ["angela-merkel.de","DOMAIN-SUFFIX"],
             ["angola.org","DOMAIN-SUFFIX"],
             ["anthropic.com","DOMAIN-SUFFIX"],
+            ["anthropic.auth0.com","DOMAIN-SUFFIX"],
             ["apartmentratings.com","DOMAIN-SUFFIX"],
             ["apartments.com","DOMAIN-SUFFIX"],
             ["arena.taipei","DOMAIN-SUFFIX"],
@@ -167,6 +168,9 @@ var rules = [
             ["ciciai.com","DOMAIN-SUFFIX"],
             ["cici.com","DOMAIN-SUFFIX"],
             ["claude.ai","DOMAIN-SUFFIX"],
+            ["claude.app","DOMAIN-SUFFIX"],
+            ["claudeusercontent.com","DOMAIN-SUFFIX"],
+            ["claudemcpcontent.com","DOMAIN-SUFFIX"],
             ["clearsurance.com","DOMAIN-SUFFIX"],
             ["cnbeta.com.tw","DOMAIN-SUFFIX"],
             ["counter.social","DOMAIN-SUFFIX"],
@@ -1589,6 +1593,7 @@ var rules = [
             ["bigjapanesesex.com","DOMAIN-SUFFIX"],
             ["bignews.org","DOMAIN-SUFFIX"],
             ["bild.de","DOMAIN-SUFFIX"],
+            ["bilibili.tv","DOMAIN-SUFFIX"],
             ["biliworld.com","DOMAIN"],
             ["bit.do","DOMAIN"],
             ["bit.ly","DOMAIN"],
@@ -1652,6 +1657,7 @@ var rules = [
             ["brookings.edu","DOMAIN-SUFFIX"],
             ["brutaltgp.com","DOMAIN-SUFFIX"],
             ["bsky.app","DOMAIN-SUFFIX"],
+            ["bsky.chat","DOMAIN-SUFFIX"],
             ["bsky.network","DOMAIN-SUFFIX"],
             ["bsky.social","DOMAIN-SUFFIX"],
             ["bt95.com","DOMAIN-SUFFIX"],
@@ -3774,6 +3780,8 @@ var rules = [
             ["sylfoundation.org","DOMAIN-SUFFIX"],
             ["syncback.com","DOMAIN-SUFFIX"],
             ["sotwe.com","DOMAIN-SUFFIX"],
+            ["api.themoviedb.org","DOMAIN-SUFFIX"],
+            ["torrentleech.org","DOMAIN-SUFFIX"],
             ["taiav.com","DOMAIN-SUFFIX"],
             ["tryai.dev","DOMAIN-SUFFIX"],
             ["theintercept.com","DOMAIN-SUFFIX"],
@@ -4410,6 +4418,7 @@ var rules = [
             ["xxx.xxx","DOMAIN"],
             ["xxxx.com.au","DOMAIN-SUFFIX"],
             ["xxxymovies.com","DOMAIN"],
+            ["youversionapi.com","DOMAIN-SUFFIX"],
             ["yfsp.tv","DOMAIN-SUFFIX"],
             ["youmind.com","DOMAIN-SUFFIX"],
             ["yangzhi.org","DOMAIN-SUFFIX"],
