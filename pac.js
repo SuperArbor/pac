@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Wed, 04 Nov 2026 19:14:03 +0000
- * GFWList Last-Modified: Tue, 03 Nov 2026 11:32:08 +0000
+ * Generated: Wed, 11 Nov 2026 15:02:55 +0800
+ * GFWList Last-Modified: Fri, 06 Nov 2026 10:29:19 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3062,7 +3062,7 @@ var rules = [
             ["namu.wiki","DOMAIN-SUFFIX"],
             ["nirsoft.net","DOMAIN-SUFFIX"],
             ["naver.com","DOMAIN-SUFFIX"],
-            ["maven.neoforged.net","DOMAIN-SUFFIX"],
+            ["neoforged.net","DOMAIN-SUFFIX"],
             ["nftstorage.link","DOMAIN-SUFFIX"],
             ["newindianexpress.com","DOMAIN-SUFFIX"],
             ["news18.com","DOMAIN-SUFFIX"],
