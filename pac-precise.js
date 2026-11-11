@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Wed, 04 Nov 2026 19:14:05 +0000
- * GFWList Last-Modified: Tue, 03 Nov 2026 11:32:08 +0000
+ * Generated: Wed, 11 Nov 2026 15:03:00 +0800
+ * GFWList Last-Modified: Fri, 06 Nov 2026 10:29:19 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -3067,7 +3067,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?namu\\.wiki",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nirsoft\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?naver\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?maven\\.neoforged\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?neoforged\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nftstorage\\.link",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newindianexpress\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?news18\\.com",
