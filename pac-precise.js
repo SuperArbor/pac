@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Wed, 11 Nov 2026 15:03:00 +0800
- * GFWList Last-Modified: Fri, 06 Nov 2026 10:29:19 +0800
+ * Generated: Sat, 14 Nov 2026 09:59:36 +0800
+ * GFWList Last-Modified: Fri, 13 Nov 2026 18:35:53 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1266,6 +1266,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?51papaya\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?123av\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?7x24hrs\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?123av\\.me",
