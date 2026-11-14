@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Wed, 11 Nov 2026 15:02:55 +0800
- * GFWList Last-Modified: Fri, 06 Nov 2026 10:29:19 +0800
+ * Generated: Sat, 14 Nov 2026 09:59:31 +0800
+ * GFWList Last-Modified: Fri, 13 Nov 2026 18:35:53 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1261,6 +1261,7 @@ var rules = [
             ["yahoo.com.tw","DOMAIN-SUFFIX"],
             ["yahoo.com.hk","DOMAIN-SUFFIX"],
             ["yahoo.com","DOMAIN-SUFFIX"],
+            ["51papaya.com","DOMAIN-SUFFIX"],
             ["123av.org","DOMAIN-SUFFIX"],
             ["7x24hrs.com","DOMAIN-SUFFIX"],
             ["123av.me","DOMAIN-SUFFIX"],
