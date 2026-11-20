@@ -1,7 +1,7 @@
 /**
  * --PACRULES--
- * Generated: Sat, 14 Nov 2026 09:59:31 +0800
- * GFWList Last-Modified: Fri, 13 Nov 2026 18:35:53 +0800
+ * Generated: Fri, 20 Nov 2026 21:29:01 +0800
+ * GFWList Last-Modified: Fri, 20 Nov 2026 11:36:24 +0800
  * GFWList From: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  */
 
@@ -1926,6 +1926,7 @@ var rules = [
             ["ifan.cz.cc","DOMAIN-SUFFIX"],
             ["mike.cz.cc","DOMAIN-SUFFIX"],
             ["nic.cz.cc","DOMAIN-SUFFIX"],
+            ["duck.ai","DOMAIN-SUFFIX"],
             ["dh.net","DOMAIN-SUFFIX"],
             ["divdyn.com","DOMAIN-SUFFIX"],
             ["data18.com","DOMAIN-SUFFIX"],
@@ -2284,6 +2285,7 @@ var rules = [
             ["fw.cm","DOMAIN-SUFFIX"],
             ["fxcm-chinese.com","DOMAIN-SUFFIX"],
             ["f95zone.to","DOMAIN-SUFFIX"],
+            ["gamma.app","DOMAIN-SUFFIX"],
             ["c.go-mpulse.net","DOMAIN-SUFFIX"],
             ["getmonero.org","DOMAIN-SUFFIX"],
             ["gate.com","DOMAIN-SUFFIX"],
@@ -2308,7 +2310,6 @@ var rules = [
             ["gabocorp.com","DOMAIN-SUFFIX"],
             ["gagaoolala.com","DOMAIN-SUFFIX"],
             ["galenwu.com","DOMAIN-SUFFIX"],
-            ["game735.com","DOMAIN-SUFFIX"],
             ["wiki.gamerp.jp","DOMAIN"],
             ["gamer.com.tw","DOMAIN-SUFFIX"],
             ["gamez.com.tw","DOMAIN-SUFFIX"],
@@ -3539,6 +3540,7 @@ var rules = [
             ["rxhj.net","DOMAIN"],
             ["raphael.app","DOMAIN-SUFFIX"],
             ["rule34.us","DOMAIN-SUFFIX"],
+            ["soulogic.com","DOMAIN-SUFFIX"],
             ["sing-box.sagernet.org","DOMAIN-SUFFIX"],
             ["supjav.com","DOMAIN-SUFFIX"],
             ["api.shuaiapi.com","DOMAIN-SUFFIX"],
